@@ -1,0 +1,48 @@
+# ============================================================================
+# IPSSI_APOCAL_KIT backend — Configuration des outils Python
+# ============================================================================
+
+[tool.black]
+line-length = 100
+target-version = ["py311"]
+extend-exclude = """
+/(
+    migrations
+  | \\.venv
+  | venv
+  | build
+  | dist
+)/
+"""
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+exclude = ["migrations", "venv", ".venv"]
+
+[tool.ruff.lint]
+# Sélection raisonnable de règles : pyflakes (F), pycodestyle (E,W),
+# isort (I), bugbear (B), comprehensions (C4), pyupgrade (UP)
+select = ["E", "F", "W", "I", "B", "C4", "UP"]
+ignore = ["E501"]  # gérée par black
+
+[tool.ruff.lint.per-file-ignores]
+"settings.py" = ["F405", "F403"]
+"**/migrations/*.py" = ["E501", "F401"]
+
+[tool.pytest.ini_options]
+DJANGO_SETTINGS_MODULE = "apocal.settings"
+python_files = ["tests.py", "test_*.py", "*_tests.py"]
+addopts = "--strict-markers --tb=short -q"
+testpaths = ["accounts", "llm", "quizzes", "administration"]
+
+[tool.coverage.run]
+source = ["accounts", "llm", "quizzes", "administration"]
+omit = ["*/migrations/*", "*/tests.py", "manage.py"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+]

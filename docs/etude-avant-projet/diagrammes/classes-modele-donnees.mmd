@@ -1,0 +1,47 @@
+%% Diagramme de classes / modèle de données (EduTutor IA)
+classDiagram
+  class User {
+    +int id
+    +str username (= email)
+    +str email
+    +str password (haché)
+    +bool is_staff
+    +datetime date_joined
+  }
+  class Profile {
+    +bool email_verified
+    +datetime created_at
+  }
+  class Quiz {
+    +int id
+    +str title
+    +str source_text
+    +int score (/10, nullable)
+    +datetime created_at
+    +datetime updated_at
+  }
+  class Question {
+    +int index (1..10)
+    +str prompt
+    +json options (4 choix)
+    +int correct_index (0..3)
+    +int selected_index (nullable)
+  }
+  class LLMConfig {
+    <<singleton>>
+    +str backend
+    +str model
+    +json api_keys
+    +str ollama_host
+    +int timeout
+  }
+  class SiteConfig {
+    <<singleton>>
+    +str app_name
+    +bool allow_signups
+    +bool require_email_verification
+    +str banner
+  }
+  User "1" --> "1" Profile : profile
+  User "1" --> "*" Quiz : quizzes
+  Quiz "1" --> "10" Question : questions

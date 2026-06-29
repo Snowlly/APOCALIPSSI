@@ -1,0 +1,25 @@
+%% Diagramme de cas d'utilisation — EduTutor IA
+%% Rendu : https://mermaid.live  (ou mermaid-cli : mmdc -i cas-utilisation.mmd -o img/cas-utilisation.svg)
+flowchart LR
+  etudiant([👤 Étudiant])
+  enseignant([👩‍🏫 Enseignant])
+  admin([🛠️ Administrateur])
+
+  subgraph SYS["EduTutor IA"]
+    direction TB
+    uc1(S'inscrire / se connecter par email)
+    uc2(Valider son email · réinitialiser son mot de passe)
+    uc3(Gérer son profil · supprimer son compte)
+    uc4(Déposer un cours — PDF ≤ 5 Mo ou texte ≥ 200 c.)
+    uc5(Générer un quiz de 10 QCM)
+    uc6(Passer le quiz · voir le score /10)
+    uc7(Consulter l'historique)
+    uc8(Voir le tableau de bord de progression)
+    uc9(Réviser ses erreurs)
+    uc10(Configurer le fournisseur LLM et l'application)
+    uc11(Gérer les utilisateurs · seed / reset)
+  end
+
+  etudiant --> uc1 & uc2 & uc3 & uc4 & uc5 & uc6 & uc7 & uc8 & uc9
+  enseignant --> uc1 & uc4 & uc5 & uc6
+  admin --> uc1 & uc10 & uc11

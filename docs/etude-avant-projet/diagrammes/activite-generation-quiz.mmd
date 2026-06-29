@@ -1,0 +1,16 @@
+%% Diagramme d'activité — Parcours de génération d'un quiz (EduTutor IA)
+flowchart TD
+  start([Début]) --> depot[Déposer un cours]
+  depot --> type{PDF ou texte ?}
+  type -->|PDF| extract[Extraire le texte avec pypdf]
+  type -->|Texte| check
+  extract --> check{"PDF ≤ 5 Mo et texte ≥ 200 caractères ?"}
+  check -->|Non| err[Message d'erreur de validation]
+  err --> depot
+  check -->|Oui| gen[Appel LLM : générer 10 QCM]
+  gen --> valid{Format JSON valide et 10 questions ?}
+  valid -->|Non| retry[Nouvel essai / message d'erreur]
+  retry --> gen
+  valid -->|Oui| save[Enregistrer Quiz + 10 Question]
+  save --> show[Afficher le quiz]
+  show --> fin([Fin])

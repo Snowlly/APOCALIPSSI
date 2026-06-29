@@ -1,0 +1,33 @@
+# ============================================================================
+# IPSSI_APOCAL_KIT — Caddyfile (reverse proxy HTTPS de production)
+# ----------------------------------------------------------------------------
+# Domaine : apocalipssi26.elafrit.com
+# Caddy obtient et renouvelle TOUT SEUL le certificat Let's Encrypt (HTTPS),
+# à condition que :
+#   - le DNS A (et AAAA si IPv6) de apocalipssi26.elafrit.com pointe vers l'IP du VPS ;
+#   - les ports 80 et 443 soient ouverts (UFW) et atteignables depuis Internet.
+#
+# Seul ce conteneur est exposé : il route vers les services internes (backend,
+# frontend) via le réseau Docker, qui ne publient aucun port sur l'hôte.
+# ============================================================================
+
+apocalipssi26.elafrit.com {
+	encode zstd gzip
+
+	# --- Backend Django : API, admin, statiques (WhiteNoise), health ---
+	@backend path /api/* /admin /admin/* /static/* /health/*
+	handle @backend {
+		reverse_proxy backend:8000
+	}
+
+	# --- Frontend React (SPA) : tout le reste ---
+	handle {
+		reverse_proxy frontend:80
+	}
+
+	# Logs d'accès sur la sortie standard (récupérables via `docker compose logs`).
+	log {
+		output stdout
+		format console
+	}
+}

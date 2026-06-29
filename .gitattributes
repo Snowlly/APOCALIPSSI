@@ -1,0 +1,21 @@
+# Normalisation des fins de ligne.
+# Les scripts shell DOIVENT être en LF, sinon bash échoue sous Linux/macOS
+# avec une erreur du type "bad interpreter: /usr/bin/env bash^M".
+*.sh        text eol=lf
+Makefile    text eol=lf
+
+# Les scripts PowerShell sont en CRLF (convention Windows).
+*.ps1       text eol=crlf
+
+# Laisser Git gérer le reste automatiquement.
+*           text=auto
+
+# Fichiers binaires : jamais de conversion de fins de ligne (sinon corruption).
+*.docx      binary
+*.xlsx      binary
+*.pdf       binary
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.ico       binary
+*.mp3       binary

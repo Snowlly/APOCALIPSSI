@@ -1,0 +1,24 @@
+%% Séquence — Inscription, connexion et validation d'email (EduTutor IA)
+sequenceDiagram
+  actor E as Étudiant
+  participant F as Frontend React
+  participant A as API DRF (accounts)
+  participant DB as PostgreSQL
+  participant M as Email (Brevo / console)
+
+  E->>F: Saisit email + mot de passe (inscription)
+  F->>A: POST /api/accounts/signup/
+  A->>DB: Crée User (username = email) + Profile (email_verified = false)
+  A->>M: Envoie l'email de validation (lien signé)
+  A-->>F: 201 Created (user)
+
+  E->>F: Connexion (email + mot de passe)
+  F->>A: POST /api/accounts/login/
+  A->>DB: Vérifie les identifiants
+  A-->>F: 200 { token, user }
+  F->>F: Stocke le token (localStorage)
+
+  E->>M: Clique le lien de validation
+  M->>A: GET /verify-email?token=...
+  A->>DB: Profile.email_verified = true
+  A-->>E: Email confirmé

@@ -1,0 +1,97 @@
+# ============================================================================
+# IPSSI_APOCAL_KIT — .gitignore
+# ============================================================================
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Éditeurs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Secrets / config locale ---
+.env
+.env.local
+.env.example
+.env.*.local
+*.local.yml
+secrets/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+.python-version
+
+# --- Virtualenvs ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Django ---
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# --- Node / React ---
+node_modules/
+.pnp
+.pnp.js
+.eslintcache
+*.tsbuildinfo
+.npm
+
+# --- Vite ---
+frontend/dist/
+frontend/.vite/
+
+# --- Docker ---
+.docker-data/
+
+# --- Postgres data (si volume hors docker) ---
+postgres-data/
+
+# --- Ollama (modèles téléchargés) ---
+ollama-data/
+
+# --- Logs ---
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Build / cache ---
+.cache/
+.parcel-cache/
+
+# --- Prompts privés du dossier d'avant-projet (NON destinés aux étudiants) ---
+# Le code des diagrammes (diagrammes/) et les documents sont versionnés ;
+# seuls les prompts de génération restent privés au formateur.
+docs/etude-avant-projet/prompts/
+
+# --- Tests ---
+coverage/
+.nyc_output/

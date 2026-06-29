@@ -1,0 +1,131 @@
+# ============================================================================
+# IPSSI_APOCAL_KIT — Override PRODUCTION
+# ----------------------------------------------------------------------------
+# Surcharge de docker-compose.yml pour un déploiement public (VPS OVH).
+# Domaine : apocalipssi26.elafrit.com
+#
+#   - Frontend buildé en statique servi par nginx (plus de `npm run dev`)
+#   - Backend en gunicorn (plus de `runserver`) + migrate + collectstatic
+#   - AUCUN port applicatif exposé : seul Caddy écoute sur 80/443 (HTTPS auto)
+#   - Ollama optionnel (profil "ollama") ; par défaut, LLM cloud (cf .env)
+#
+# Lancement :
+#   docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d --build
+#   # + Ollama local : ajouter `--profile ollama`
+#
+# ⚠️ Requiert Docker Compose v2.24+ (tag `!reset`). Vérifier : docker compose version
+#    Repli si version plus ancienne : remplacer `ports: !reset []` par un bind
+#    loopback, ex. `ports: ["127.0.0.1:8000:8000"]` (jamais 0.0.0.0 en prod).
+# ============================================================================
+
+services:
+
+  postgres:
+    # Ne plus publier 5432 sur l'hôte : accès uniquement via le réseau interne.
+    ports: !reset []
+
+  ollama:
+    # Optionnel : démarré seulement avec `--profile ollama`. Par défaut le LLM
+    # est un fournisseur cloud (cf .env : LLM_BACKEND=groq), Ollama n'est pas lancé.
+    profiles: ["ollama"]
+    ports: !reset []
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: ../docker/backend.prod.Dockerfile
+    # Image de prod : pas de runserver, pas de bind-mount du code source.
+    ports: !reset []
+    volumes: !reset []
+    environment:
+      DJANGO_SECURE_PROD: "True"
+    # Réseaux : `default` (réseau interne du projet → postgres/ollama) + `edge`
+    # (réseau PARTAGÉ du reverse proxy mutualisé du VPS). Indispensable pour que
+    # le Caddy partagé joigne « apocalipssi-2026-backend » par son nom. Sans ça,
+    # chaque recreate sortait le backend du réseau de Caddy → 502 (/api, /admin,
+    # /static, /health). Avec cette déclaration, le rattachement est automatique.
+    networks:
+      - default
+      - edge
+    depends_on:
+      # Ollama devient une dépendance OPTIONNELLE (required:false) : si le profil
+      # "ollama" n'est pas actif, le backend démarre sans l'attendre. Postgres
+      # (défini dans le fichier de base) reste requis et attendu "healthy".
+      ollama:
+        condition: service_started
+        required: false
+    command:
+      [
+        "sh",
+        "-c",
+        "python manage.py migrate --noinput && python manage.py collectstatic --noinput && python manage.py bootstrap_demo && exec gunicorn apocal.wsgi:application --bind 0.0.0.0:8000 --workers 3 --timeout 120 --access-logfile - --error-logfile -",
+      ]
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health/')",
+        ]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 90s
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ../docker/frontend.prod.Dockerfile
+      args:
+        VITE_API_BASE_URL: ${VITE_API_BASE_URL:-/api}
+    # Image nginx : on remplace `npm run dev` et on retire le bind-mount du code.
+    command: ["nginx", "-g", "daemon off;"]
+    ports: !reset []
+    volumes: !reset []
+    expose:
+      - "80"
+    # Même réseau partagé que le backend : le Caddy edge sert le frontend par son
+    # nom (« apocalipssi-2026-frontend »). `default` = réseau interne du projet.
+    networks:
+      - default
+      - edge
+
+  caddy:
+    image: caddy:2-alpine
+    container_name: apocalipssi-2026-caddy
+    restart: unless-stopped
+    # OPTIONNEL : ce Caddy n'est lancé qu'avec `--profile edge`, c.-à-d. sur un
+    # VPS DÉDIÉ sans reverse proxy existant. Si un proxy occupe déjà 80/443 (VPS
+    # partagé), NE PAS activer ce profil : on branche EduTutor DERRIÈRE le proxy
+    # existant (cf docs/11 — intégration derrière un reverse proxy).
+    profiles: ["edge"]
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data
+      - caddy-config:/config
+    depends_on:
+      - backend
+      - frontend
+
+volumes:
+  caddy-data:
+  caddy-config:
+
+# ----------------------------------------------------------------------------
+# Réseaux
+# ----------------------------------------------------------------------------
+networks:
+  # Réseau du reverse proxy edge MUTUALISÉ du VPS (créé par une AUTRE stack).
+  # `external: true` => Compose s'y RATTACHE sans le créer ni le gérer : aucun
+  # impact sur les autres applications du VPS (FormaPlanner, Boussole, etc.).
+  # Nom surchargeable via EDGE_PROXY_NETWORK dans le .env si le proxy change.
+  # ⚠️ Spécifique au déploiement DERRIÈRE un proxy partagé (cf. docs/11) : ce
+  #    réseau doit déjà exister sur l'hôte, sinon `docker compose up` échoue.
+  #    En dev local, ce fichier d'override n'est pas utilisé → sans effet.
+  edge:
+    name: ${EDGE_PROXY_NETWORK:-formaplanner_formaplanner}
+    external: true

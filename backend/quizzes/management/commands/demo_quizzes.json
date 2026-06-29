@@ -1,0 +1,320 @@
+[
+    {
+        "title":  "Agile \u0026 Scrum — les fondamentaux",
+        "source_text":  "Le Manifeste Agile (2001) repose sur 4 valeurs et 12 principes qui privilégient les individus, les logiciels fonctionnels, la collaboration avec le client et l\u0027adaptation au changement. Scrum est un cadre de travail itératif et incrémental qui définit trois responsabilités (Product Owner, Scrum Master, Developers), cinq événements (Sprint, Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective) et trois artefacts (Product Backlog, Sprint Backlog, Increment). Le Sprint, d\u0027une durée maximale d\u0027un mois, est le conteneur de tous les autres événements et chaque événement est encadré par une durée maximale appelée time-box. La Definition of Done garantit un niveau de qualité partagé pour chaque incrément, tandis que la vélocité aide l\u0027équipe à estimer sa capacité de livraison. Les besoins sont souvent exprimés sous forme de user stories, dont la qualité peut être évaluée avec les critères INVEST.",
+        "questions":  [
+                          {
+                              "prompt":  "Combien de valeurs le Manifeste Agile énonce-t-il ?",
+                              "options":  [
+                                              "3 valeurs",
+                                              "4 valeurs",
+                                              "12 valeurs",
+                                              "5 valeurs"
+                                          ],
+                              "correct_index":  1
+                          },
+                          {
+                              "prompt":  "Parmi ces propositions, laquelle correspond à une des 4 valeurs du Manifeste Agile ?",
+                              "options":  [
+                                              "Suivre un plan détaillé plutôt que répondre au changement",
+                                              "La documentation exhaustive plutôt que le logiciel fonctionnel",
+                                              "Les individus et leurs interactions plutôt que les processus et les outils",
+                                              "La négociation contractuelle plutôt que la collaboration avec le client"
+                                          ],
+                              "correct_index":  2
+                          },
+                          {
+                              "prompt":  "Quelle est la responsabilité principale du Product Owner dans Scrum ?",
+                              "options":  [
+                                              "Maximiser la valeur du produit et gérer le Product Backlog",
+                                              "Supprimer les obstacles rencontrés par l\u0027équipe",
+                                              "Écrire l\u0027ensemble du code de l\u0027incrément",
+                                              "Décider techniquement comment réaliser chaque tâche"
+                                          ],
+                              "correct_index":  0
+                          },
+                          {
+                              "prompt":  "Quel est le rôle du Scrum Master ?",
+                              "options":  [
+                                              "Prioriser les éléments du Product Backlog",
+                                              "Servir l\u0027équipe en favorisant Scrum et en éliminant les obstacles",
+                                              "Valider la livraison auprès des clients à la place du PO",
+                                              "Assigner autoritairement les tâches aux développeurs"
+                                          ],
+                              "correct_index":  1
+                          },
+                          {
+                              "prompt":  "Quelle est la durée maximale (time-box) d\u0027un Sprint selon le Scrum Guide ?",
+                              "options":  [
+                                              "Une semaine",
+                                              "Trois mois",
+                                              "Un mois",
+                                              "Aucune limite imposée"
+                                          ],
+                              "correct_index":  2
+                          },
+                          {
+                              "prompt":  "Quel événement Scrum a pour objectif principal d\u0027inspecter et d\u0027adapter la manière de travailler de l\u0027équipe (processus, outils, relations) ?",
+                              "options":  [
+                                              "La Sprint Review",
+                                              "Le Daily Scrum",
+                                              "Le Sprint Planning",
+                                              "La Sprint Retrospective"
+                                          ],
+                              "correct_index":  3
+                          },
+                          {
+                              "prompt":  "Quelle est la time-box recommandée du Daily Scrum ?",
+                              "options":  [
+                                              "15 minutes",
+                                              "1 heure",
+                                              "30 minutes",
+                                              "4 heures"
+                                          ],
+                              "correct_index":  0
+                          },
+                          {
+                              "prompt":  "Lequel de ces éléments est un artefact Scrum ?",
+                              "options":  [
+                                              "Le Daily Scrum",
+                                              "L\u0027Increment",
+                                              "Le Scrum Master",
+                                              "La Sprint Review"
+                                          ],
+                              "correct_index":  1
+                          },
+                          {
+                              "prompt":  "Que désigne la Definition of Done (DoD) ?",
+                              "options":  [
+                                              "La liste priorisée de toutes les fonctionnalités du produit",
+                                              "L\u0027objectif commercial fixé par le Product Owner pour le Sprint",
+                                              "L\u0027ensemble des critères de qualité partagés qu\u0027un incrément doit respecter pour être considéré terminé",
+                                              "Le nombre de points livrés en moyenne par Sprint"
+                                          ],
+                              "correct_index":  2
+                          },
+                          {
+                              "prompt":  "Dans l\u0027acronyme INVEST appliqué aux user stories, que signifie la lettre \u0027I\u0027 ?",
+                              "options":  [
+                                              "Itérative",
+                                              "Indépendante (Independent)",
+                                              "Importante",
+                                              "Incrémentale"
+                                          ],
+                              "correct_index":  1
+                          }
+                      ]
+    },
+    {
+        "title":  "Droit du numérique — les fondamentaux (RGPD, propriété intellectuelle, obligations des sites)",
+        "source_text":  "Le droit du numérique en France s\u0027inscrit dans un cadre européen, dominé par le RGPD (Règlement général sur la protection des données), applicable depuis le 25 mai 2018, et complété en France par la loi Informatique et Libertés contrôlée par la CNIL. Le RGPD repose sur des principes comme la licéité, la minimisation et la limitation des durées de conservation ; il consacre des droits pour les personnes (accès, rectification, effacement, opposition, portabilité) et impose des obligations comme la tenue d\u0027un registre des traitements et, dans certains cas, la désignation d\u0027un DPO. En cas de violation de données, le responsable de traitement doit notifier la CNIL, en principe dans les 72 heures après en avoir pris connaissance. Le logiciel est protégé par le droit d\u0027auteur (et non par le brevet en principe), et son exploitation est encadrée par des licences (propriétaires ou libres). Tout site doit afficher des mentions légales obligatoires identifiant l\u0027éditeur et l\u0027hébergeur, et le dépôt de cookies non essentiels requiert un consentement préalable conformément aux règles CNIL/ePrivacy. Enfin, la LCEN distingue la responsabilité allégée de l\u0027hébergeur de celle, pleine, de l\u0027éditeur de contenus.",
+        "questions":  [
+                          {
+                              "prompt":  "Depuis quelle date le RGPD est-il applicable dans l\u0027ensemble de l\u0027Union européenne ?",
+                              "options":  [
+                                              "Le 25 mai 2018",
+                                              "Le 6 janvier 1978",
+                                              "Le 1er janvier 2020",
+                                              "Le 25 mai 2016"
+                                          ],
+                              "correct_index":  0
+                          },
+                          {
+                              "prompt":  "Quelle autorité est chargée de veiller au respect de la protection des données personnelles en France ?",
+                              "options":  [
+                                              "L\u0027ARCEP",
+                                              "La CNIL",
+                                              "L\u0027Autorité de la concurrence",
+                                              "La DGCCRF"
+                                          ],
+                              "correct_index":  1
+                          },
+                          {
+                              "prompt":  "Selon le RGPD, dans quel délai de principe le responsable de traitement doit-il notifier à la CNIL une violation de données présentant un risque ?",
+                              "options":  [
+                                              "Dans un délai d\u0027un mois",
+                                              "Immédiatement, sans aucun délai",
+                                              "Dans les 72 heures après en avoir pris connaissance",
+                                              "Dans les 30 jours"
+                                          ],
+                              "correct_index":  2
+                          },
+                          {
+                              "prompt":  "Parmi les éléments suivants, lequel est une condition de validité du consentement au sens du RGPD ?",
+                              "options":  [
+                                              "Il peut être recueilli de manière implicite",
+                                              "Il doit être libre, spécifique, éclairé et univoque",
+                                              "Il est obligatoirement payant",
+                                              "Il ne peut jamais être retiré"
+                                          ],
+                              "correct_index":  1
+                          },
+                          {
+                              "prompt":  "En France et dans l\u0027UE, par quel régime juridique le logiciel est-il en principe protégé ?",
+                              "options":  [
+                                              "Par le droit des marques",
+                                              "Par le brevet d\u0027invention obligatoire",
+                                              "Par le droit des dessins et modèles",
+                                              "Par le droit d\u0027auteur"
+                                          ],
+                              "correct_index":  3
+                          },
+                          {
+                              "prompt":  "Que désigne le sigle DPO dans le cadre du RGPD ?",
+                              "options":  [
+                                              "Le délégué à la protection des données",
+                                              "Le directeur de la production opérationnelle",
+                                              "Le dispositif de protection en ligne",
+                                              "Le décret de protection obligatoire"
+                                          ],
+                              "correct_index":  0
+                          },
+                          {
+                              "prompt":  "Quel document recense, au sein d\u0027un organisme, l\u0027ensemble des traitements de données personnelles mis en œuvre ?",
+                              "options":  [
+                                              "Le bilan comptable",
+                                              "Le registre des activités de traitement",
+                                              "Le contrat de travail",
+                                              "Le cahier des charges technique"
+                                          ],
+                              "correct_index":  1
+                          },
+                          {
+                              "prompt":  "Concernant les cookies, que prévoient les règles CNIL/ePrivacy pour les traceurs non essentiels (ex. publicité) ?",
+                              "options":  [
+                                              "Ils peuvent être déposés sans aucune information",
+                                              "Ils sont totalement interdits en France",
+                                              "Le consentement préalable de l\u0027internaute est requis avant leur dépôt",
+                                              "Seul un bandeau d\u0027information suffit, sans consentement"
+                                          ],
+                              "correct_index":  2
+                          },
+                          {
+                              "prompt":  "Selon la LCEN, quelle affirmation décrit correctement la responsabilité de l\u0027hébergeur par rapport à l\u0027éditeur ?",
+                              "options":  [
+                                              "L\u0027hébergeur est responsable de tous les contenus comme l\u0027éditeur",
+                                              "L\u0027éditeur n\u0027a aucune responsabilité sur ses contenus",
+                                              "Hébergeur et éditeur ont strictement le même régime",
+                                              "L\u0027hébergeur bénéficie d\u0027une responsabilité allégée, l\u0027éditeur est pleinement responsable de ses contenus"
+                                          ],
+                              "correct_index":  3
+                          },
+                          {
+                              "prompt":  "Quelle information fait partie des mentions légales obligatoires d\u0027un site édité par une société ?",
+                              "options":  [
+                                              "L\u0027identité de l\u0027éditeur et les coordonnées de l\u0027hébergeur",
+                                              "Le chiffre d\u0027affaires détaillé de l\u0027année",
+                                              "La liste nominative de tous les salariés",
+                                              "Le code source complet du site"
+                                          ],
+                              "correct_index":  0
+                          }
+                      ]
+    },
+    {
+        "title":  "ITIL 4 — les fondamentaux de la gestion des services IT",
+        "source_text":  "ITIL 4 est le référentiel de bonnes pratiques pour la gestion des services informatiques (ITSM). Un service est un moyen de permettre la co-création de valeur en facilitant les résultats que les clients souhaitent obtenir, sans qu\u0027ils aient à gérer les coûts et les risques spécifiques. ITIL 4 repose sur le Système de Valeur des Services (SVS), qui inclut la Chaîne de Valeur des Services (SVC), les 7 principes directeurs, la gouvernance, les pratiques et l\u0027amélioration continue. Il définit également 4 dimensions à prendre en compte de façon équilibrée : les organisations et les personnes, l\u0027information et la technologie, les partenaires et fournisseurs, ainsi que les flux de valeur et processus. Parmi les pratiques clés figurent la gestion des incidents, la gestion des problèmes, le change enablement (activation des changements), la gestion des demandes de service, la gestion des niveaux de service (avec les SLA) et l\u0027amélioration continue.",
+        "questions":  [
+                          {
+                              "prompt":  "Dans ITIL 4, comment définit-on un service ?",
+                              "options":  [
+                                              "Un moyen de permettre la co-création de valeur en facilitant les résultats souhaités par les clients, sans qu\u0027ils gèrent les coûts et risques spécifiques",
+                                              "Un ensemble de serveurs et d\u0027équipements matériels mis à disposition des utilisateurs",
+                                              "Un contrat juridique signé entre un fournisseur et un client",
+                                              "Une application logicielle déployée dans le système d\u0027information"
+                                          ],
+                              "correct_index":  0
+                          },
+                          {
+                              "prompt":  "Combien de dimensions ITIL 4 définit-il pour la gestion des services ?",
+                              "options":  [
+                                              "3 dimensions",
+                                              "4 dimensions",
+                                              "5 dimensions",
+                                              "7 dimensions"
+                                          ],
+                              "correct_index":  1
+                          },
+                          {
+                              "prompt":  "Laquelle des propositions suivantes fait partie des 4 dimensions d\u0027ITIL 4 ?",
+                              "options":  [
+                                              "La gestion financière des services",
+                                              "La gouvernance des risques",
+                                              "Les partenaires et fournisseurs",
+                                              "La satisfaction client"
+                                          ],
+                              "correct_index":  2
+                          },
+                          {
+                              "prompt":  "Combien de principes directeurs (guiding principles) ITIL 4 propose-t-il ?",
+                              "options":  [
+                                              "5 principes",
+                                              "9 principes",
+                                              "4 principes",
+                                              "7 principes"
+                                          ],
+                              "correct_index":  3
+                          },
+                          {
+                              "prompt":  "Lequel des éléments suivants est l\u0027un des 7 principes directeurs d\u0027ITIL 4 ?",
+                              "options":  [
+                                              "Privilégier la valeur (Focus on value)",
+                                              "Maximiser les profits du fournisseur",
+                                              "Externaliser systématiquement les opérations",
+                                              "Documenter chaque processus en détail avant d\u0027agir"
+                                          ],
+                              "correct_index":  0
+                          },
+                          {
+                              "prompt":  "Qu\u0027est-ce que la Chaîne de Valeur des Services (Service Value Chain) dans ITIL 4 ?",
+                              "options":  [
+                                              "Un document décrivant les niveaux de service convenus avec le client",
+                                              "Le modèle opérationnel central, au cœur du SVS, composé de six activités permettant de créer de la valeur",
+                                              "La liste exhaustive des incidents traités par le centre de services",
+                                              "Un outil de mesure de la satisfaction des utilisateurs finaux"
+                                          ],
+                              "correct_index":  1
+                          },
+                          {
+                              "prompt":  "Quelle est la différence essentielle entre un incident et un problème selon ITIL 4 ?",
+                              "options":  [
+                                              "Un incident concerne le matériel, un problème concerne uniquement les logiciels",
+                                              "Un incident est planifié, un problème est imprévu",
+                                              "Un incident est une interruption (ou réduction de qualité) non planifiée d\u0027un service, tandis qu\u0027un problème est la cause (ou cause potentielle) d\u0027un ou plusieurs incidents",
+                                              "Un incident est signalé par l\u0027utilisateur, un problème est toujours signalé par un fournisseur externe"
+                                          ],
+                              "correct_index":  2
+                          },
+                          {
+                              "prompt":  "Quel est l\u0027objectif principal de la pratique de gestion des incidents (incident management) dans ITIL 4 ?",
+                              "options":  [
+                                              "Identifier et éliminer définitivement les causes racines des dysfonctionnements",
+                                              "Planifier et autoriser les changements sur les services",
+                                              "Négocier et rédiger les accords de niveau de service",
+                                              "Minimiser l\u0027impact négatif des incidents en rétablissant le service normal le plus rapidement possible"
+                                          ],
+                              "correct_index":  3
+                          },
+                          {
+                              "prompt":  "Dans ITIL 4, qu\u0027est-ce qu\u0027un SLA (Service Level Agreement) ?",
+                              "options":  [
+                                              "Un accord documenté entre un fournisseur de services et un client qui identifie les services attendus et les cibles de niveau de service",
+                                              "Un registre central de tous les actifs informatiques de l\u0027organisation",
+                                              "Un plan de reprise après sinistre du système d\u0027information",
+                                              "Une demande standard formulée par un utilisateur via le centre de services"
+                                          ],
+                              "correct_index":  0
+                          },
+                          {
+                              "prompt":  "Quel modèle ITIL 4 décrit l\u0027approche d\u0027amélioration continue à travers des étapes telles que « Quelle est la vision ? » et « Où en sommes-nous maintenant ? »",
+                              "options":  [
+                                              "Le cycle PDCA exclusivement réservé à la production",
+                                              "Le modèle d\u0027amélioration continue (Continual Improvement Model)",
+                                              "La matrice RACI des responsabilités",
+                                              "Le modèle des sept étapes de mesure des SLA"
+                                          ],
+                              "correct_index":  1
+                          }
+                      ]
+    }
+]

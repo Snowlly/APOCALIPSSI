@@ -1,0 +1,15 @@
+%% C4 niveau 1 — Diagramme de contexte (EduTutor IA)
+C4Context
+  title Contexte système (C4 niveau 1) — EduTutor IA
+  Person(etudiant, "Étudiant", "Révise à partir de ses propres cours")
+  Person(admin, "Administrateur", "Configure et exploite la plateforme")
+  System(edututor, "EduTutor IA", "Génère des quiz QCM à partir des cours déposés")
+  System_Ext(ollama, "Ollama (LLM local)", "Llama 3.1 8B — moteur par défaut")
+  System_Ext(cloud, "Fournisseurs LLM cloud", "Optionnels, activés via ADR")
+  System_Ext(brevo, "Brevo", "Envoi des emails (validation, reset)")
+
+  Rel(etudiant, edututor, "Dépose des cours, passe des quiz")
+  Rel(admin, edututor, "Configure le LLM et l'application")
+  Rel(edututor, ollama, "Génère les QCM (local, souverain)")
+  Rel(edututor, cloud, "Génère les QCM (optionnel)")
+  Rel(edututor, brevo, "Envoie validation / réinitialisation")

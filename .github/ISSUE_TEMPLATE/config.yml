@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📘 Guide étudiant
+    url: https://github.com/melafrit/IPSSI_APOCAL_KIT/blob/main/GUIDE-ETUDIANT.md
+    about: Prise en main du kit pas à pas.
+  - name: 🎓 Cours Agile/Scrum (Mohamed EL AFRIT)
+    url: https://mohamedelafrit.com/teaching/Master_Classe_Agile/cours.html
+    about: Le cours de référence de la semaine.

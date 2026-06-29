@@ -1,0 +1,29 @@
+%% Diagramme de composants (EduTutor IA)
+flowchart LR
+  subgraph CLIENT["Client (navigateur)"]
+    UI["React 18 + Vite + TS<br/>pages : auth, upload, quiz,<br/>history, dashboard, review, profile, admin"]
+  end
+
+  subgraph BACK["Backend — Django + DRF"]
+    ACC["accounts<br/>auth email, Profile"]
+    QZ["quizzes<br/>Quiz, Question, score"]
+    LLMA["llm<br/>factory multi-fournisseurs"]
+    ADM["administration<br/>SiteConfig, back-office"]
+  end
+
+  DB[("PostgreSQL 16")]
+  OLL["Ollama<br/>Llama 3.1 8B (défaut, local)"]
+  PROV["Fournisseurs cloud<br/>Gemini / Groq / … / OpenAI"]
+  MAIL["Brevo SMTP"]
+
+  UI -->|"HTTP/JSON + token"| ACC
+  UI --> QZ
+  UI --> LLMA
+  UI --> ADM
+  ACC --> DB
+  QZ --> DB
+  LLMA --> DB
+  ADM --> DB
+  LLMA -->|"par défaut (local)"| OLL
+  LLMA -.->|"optionnel · via ADR"| PROV
+  ACC --> MAIL

@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  body {
+    @apply bg-slate-50 text-slate-700 antialiased;
+  }
+  code,
+  pre {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /*
+   * Mode sombre (MVP2 — Lot 6).
+   * [Note pédagogique] Plutôt que d'ajouter `dark:` sur CHAQUE page existante,
+   * on « rétrofit » le thème sombre en redéfinissant ici les classes neutres
+   * (slate) les plus utilisées. Les couleurs d'accent (indigo, emerald, amber,
+   * rose) restent telles quelles : elles restent lisibles sur fond sombre.
+   * Pour vos NOUVELLES pages, préférez les variantes `dark:` de Tailwind.
+   */
+  .dark body {
+    @apply bg-slate-900 text-slate-300;
+  }
+
+  /* Texte neutre */
+  .dark .text-slate-900 {
+    color: #f1f5f9;
+  }
+  .dark .text-slate-800 {
+    color: #e2e8f0;
+  }
+  .dark .text-slate-700 {
+    color: #cbd5e1;
+  }
+  .dark .text-slate-600 {
+    color: #94a3b8;
+  }
+  .dark .text-slate-500 {
+    color: #94a3b8;
+  }
+
+  /* Surfaces neutres */
+  .dark .bg-white {
+    background-color: #1e293b;
+  }
+  .dark .bg-slate-50 {
+    background-color: #0f172a;
+  }
+  .dark .bg-slate-100 {
+    background-color: #334155;
+  }
+
+  /* Bordures neutres */
+  .dark .border-slate-200 {
+    border-color: #334155;
+  }
+  .dark .border-slate-300 {
+    border-color: #475569;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 px-4 py-2 rounded-md font-semibold text-sm transition;
+  }
+  .btn-primary {
+    @apply btn bg-indigo-600 text-white hover:bg-indigo-700;
+  }
+  .btn-secondary {
+    @apply btn bg-white border border-slate-300 text-slate-700 hover:bg-slate-50;
+  }
+  .btn-signature {
+    @apply btn bg-amber-500 text-slate-900 hover:bg-amber-600;
+  }
+  .input {
+    @apply w-full px-3 py-2 border border-slate-300 rounded-md bg-white text-slate-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent;
+  }
+  .card {
+    @apply bg-white border border-slate-200 rounded-lg p-6 shadow-sm;
+  }
+
+  /* Variantes sombres des primitives (Lot 6) */
+  .dark .card {
+    @apply bg-slate-800 border-slate-700;
+  }
+  .dark .input {
+    @apply bg-slate-800 border-slate-600 text-slate-100 placeholder:text-slate-400;
+  }
+  .dark .btn-secondary {
+    @apply bg-slate-800 border-slate-600 text-slate-200 hover:bg-slate-700;
+  }
+}

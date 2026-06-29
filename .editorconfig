@@ -1,0 +1,24 @@
+# ============================================================================
+# IPSSI_APOCAL_KIT — .editorconfig
+# Source unique pour les conventions d'indentation et fin de ligne.
+# https://editorconfig.org/
+# ============================================================================
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 4
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{js,ts,tsx,jsx,json,yml,yaml,css,html,md}]
+indent_size = 2
+
+[Makefile]
+indent_style = tab
+
+[*.md]
+trim_trailing_whitespace = false  # double-space = saut de ligne MD

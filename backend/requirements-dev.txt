@@ -1,0 +1,18 @@
+# ============================================================================
+# Dépendances dev (linting, tests, formatting)
+# ============================================================================
+
+-r requirements.txt
+
+# Tests
+pytest==8.3.4
+pytest-django==4.9.0
+pytest-cov==6.0.0
+
+# Linting et formatting
+black==24.10.0
+ruff==0.8.4
+
+# Tests utilitaires
+factory-boy==3.3.1
+faker==33.1.0

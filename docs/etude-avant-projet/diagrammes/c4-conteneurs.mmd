@@ -1,0 +1,13 @@
+%% C4 niveau 2 — Diagramme de conteneurs (EduTutor IA)
+C4Container
+  title Conteneurs (C4 niveau 2) — EduTutor IA
+  Person(etudiant, "Étudiant", "Utilisateur de la plateforme")
+  Container(spa, "Frontend", "React 18 + Vite + TS", "Interface : auth, upload, quiz, dashboard, profil, admin")
+  Container(api, "Backend API", "Django + DRF", "Auth email, génération de quiz, correction, admin")
+  ContainerDb(db, "Base de données", "PostgreSQL 16", "Users, profils, quiz, questions, configuration")
+  Container(ollama, "Service LLM", "Ollama / Llama 3.1 8B", "Génération locale des QCM")
+
+  Rel(etudiant, spa, "Utilise", "HTTPS")
+  Rel(spa, api, "Appelle", "JSON/HTTP + token")
+  Rel(api, db, "Lit / écrit", "SQL")
+  Rel(api, ollama, "Génère les QCM", "HTTP")

@@ -1,0 +1,14 @@
+%% Séquence — Soumission des réponses et correction automatique (EduTutor IA)
+sequenceDiagram
+  actor E as Étudiant
+  participant F as Frontend React
+  participant A as API DRF (quizzes)
+  participant DB as PostgreSQL
+
+  E->>F: Répond aux 10 QCM
+  F->>A: POST /api/quizzes/{id}/answer/ (réponses)
+  A->>DB: Charge les Question du Quiz
+  A->>A: Compare selected_index vs correct_index
+  A->>DB: Enregistre selected_index + score /10
+  A-->>F: 200 { score, total, details }
+  F-->>E: Affiche le score /10 + détail bonnes / mauvaises réponses

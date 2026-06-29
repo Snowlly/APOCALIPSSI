@@ -1,0 +1,22 @@
+%% Séquence — Génération d'un quiz de 10 QCM (EduTutor IA)
+sequenceDiagram
+  actor E as Étudiant
+  participant F as Frontend React
+  participant A as API DRF (llm)
+  participant P as pypdf
+  participant L as LLM (Ollama par défaut)
+  participant DB as PostgreSQL
+
+  E->>F: Dépose un PDF ou colle un texte
+  F->>A: POST /api/llm/generate-quiz/ (fichier ou texte)
+  alt PDF fourni
+    A->>P: Extraction du texte (PDF ≤ 5 Mo)
+    P-->>A: Texte du cours
+  end
+  A->>A: Valide le texte (≥ 200 caractères)
+  A->>L: Prompt de génération (10 QCM, sortie JSON stricte)
+  L-->>A: 10 questions (énoncé + 4 options + bonne réponse)
+  A->>A: parse_and_validate_quiz (format, 10 items)
+  A->>DB: Crée Quiz + 10 Question
+  A-->>F: 201 Created { quiz }
+  F-->>E: Affiche le quiz

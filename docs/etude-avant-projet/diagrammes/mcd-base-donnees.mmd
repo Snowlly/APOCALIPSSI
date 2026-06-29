@@ -1,0 +1,35 @@
+%% Schéma entité-association (MCD) — base de données EduTutor IA
+erDiagram
+  USER ||--|| PROFILE : "possède"
+  USER ||--o{ QUIZ : "crée"
+  QUIZ ||--|{ QUESTION : "contient"
+
+  USER {
+    int id PK
+    string email UK "identifiant"
+    string password "haché"
+    bool is_staff
+    datetime date_joined
+  }
+  PROFILE {
+    int user_id FK
+    bool email_verified
+    datetime created_at
+  }
+  QUIZ {
+    int id PK
+    int user_id FK
+    string title
+    text source_text
+    int score "/10, nullable"
+    datetime created_at
+  }
+  QUESTION {
+    int id PK
+    int quiz_id FK
+    int index "1..10"
+    text prompt
+    json options "4 choix"
+    int correct_index "0..3"
+    int selected_index "nullable"
+  }

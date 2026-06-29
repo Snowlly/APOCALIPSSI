@@ -1,0 +1,61 @@
+[
+  {
+    "email": "lea.martin@apocal.local",
+    "password": "etudiant2026",
+    "first_name": "Léa",
+    "last_name": "Martin",
+    "note": "Étudiante L2 droit, en révision intensive — bonne élève.",
+    "quizzes": [
+      {
+        "title": "Droit du numérique — RGPD (révision)",
+        "source_text": "Le RGPD encadre le traitement des données personnelles : licéité, consentement, droits des personnes (accès, rectification, effacement, portabilité), et responsabilité du responsable de traitement.",
+        "score": 8,
+        "questions": [
+          {"prompt": "Que signifie le sigle RGPD ?", "options": ["Règlement Général sur la Protection des Données", "Régime Général de Procédure Documentaire", "Référentiel Global de Protection Digitale", "Règlement Genéral des Pratiques Données"], "correct_index": 0, "selected_index": 0},
+          {"prompt": "Quel droit permet à une personne de récupérer ses données dans un format réutilisable ?", "options": ["Droit d'accès", "Droit à la portabilité", "Droit d'opposition", "Droit de rectification"], "correct_index": 1, "selected_index": 1},
+          {"prompt": "Sur quelle base un traitement peut-il être licite ?", "options": ["Le consentement de la personne", "La seule volonté de l'entreprise", "Un gain commercial", "Une habitude du secteur"], "correct_index": 0, "selected_index": 0},
+          {"prompt": "Le délai de réponse à une demande d'accès (article 15) est en principe de :", "options": ["48 heures", "1 mois", "1 an", "Aucun délai"], "correct_index": 1, "selected_index": 3}
+        ]
+      }
+    ]
+  },
+  {
+    "email": "kevin.dubois@apocal.local",
+    "password": "etudiant2026",
+    "first_name": "Kevin",
+    "last_name": "Dubois",
+    "note": "Étudiant qui bloque sur les maths — score volontairement FAIBLE pour alimenter le Dashboard et la page Révision des erreurs.",
+    "quizzes": [
+      {
+        "title": "Statistiques de base (à retravailler)",
+        "source_text": "Notions de base : moyenne, médiane, écart-type, et différence entre corrélation et causalité.",
+        "score": 3,
+        "questions": [
+          {"prompt": "La moyenne de 2, 4 et 9 est :", "options": ["5", "4", "6", "3"], "correct_index": 0, "selected_index": 1},
+          {"prompt": "La médiane de 1, 3, 100 est :", "options": ["100", "3", "34,6", "1"], "correct_index": 1, "selected_index": 0},
+          {"prompt": "Une corrélation entre deux variables implique :", "options": ["Toujours une causalité", "Pas nécessairement une causalité", "Aucune relation", "Une erreur de mesure"], "correct_index": 1, "selected_index": 0},
+          {"prompt": "L'écart-type mesure :", "options": ["La valeur la plus fréquente", "La dispersion autour de la moyenne", "La plus grande valeur", "Le nombre de valeurs"], "correct_index": 1, "selected_index": 1}
+        ]
+      }
+    ]
+  },
+  {
+    "email": "sophie.lefevre@apocal.local",
+    "password": "enseignant2026",
+    "first_name": "Sophie",
+    "last_name": "Lefèvre",
+    "note": "Persona enseignante (BTS Communication, Lyon). Possède un quiz généré qui contient une ERREUR FACTUELLE (hallucination du LLM) : préfigure discrètement J3 (validation post-LLM / fiabilité) sans la révéler.",
+    "quizzes": [
+      {
+        "title": "Culture générale — Communication (quiz à vérifier)",
+        "source_text": "Cours de communication : repères historiques et notions clés. (Quiz généré automatiquement — à relire avant diffusion aux étudiants.)",
+        "score": null,
+        "questions": [
+          {"prompt": "Quel théoricien est associé à « le médium est le message » ?", "options": ["Marshall McLuhan", "Roland Barthes", "Claude Shannon", "Harold Lasswell"], "correct_index": 0, "selected_index": null},
+          {"prompt": "Le modèle de Shannon et Weaver décrit la communication comme :", "options": ["Un rituel social", "Un transfert d'information émetteur → canal → récepteur", "Une négociation de sens", "Un acte performatif"], "correct_index": 1, "selected_index": null},
+          {"prompt": "Le Manifeste Agile a été publié en :", "options": ["1995", "2001", "2010", "2015"], "correct_index": 0, "selected_index": null}
+        ]
+      }
+    ]
+  }
+]
