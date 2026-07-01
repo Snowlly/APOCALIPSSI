@@ -1,0 +1,87 @@
+Modèle : phi4-mini:latest
+Temps : 11.15 secondes
+Consigne : Le QCM doit être facile et destiné à des lycéens.
+================================================================================
+
+### Quizz Historique : Napoléon Bonaparte
+
+1. **Qui était le frère cadet de Napoléon Bonaparte ?**
+   - A) Louis XVIII
+   - B) Joseph Bonaparte (correct)
+   - C) Charles X
+   - D) Jérôme Bonaparte
+   
+   Explication: La réponse correcte est B) Joseph Bonaparte. Il était le frère cadet de Napoléon.
+
+2. **Napoléon s'est marié trois fois ; avec qui n'a-t-il pas eu d'enfant ?**
+   - A) Joséphine de Beauharnais
+   - B) Marie-Louise von Habsburg (correct)
+   - C) Hortense de Beauharnais
+   
+   Explication: La réponse correcte est B) Marie-Louise von Habsburg. Ils n'ont pas eu d'enfant ensemble.
+
+3. **Napoléon Bonaparte a fondé une nouvelle capitale pour le Royaume Napoléonien en 1804, connue sous quel nom ?**
+   - A) Paris
+   - B) Lyon
+   - C) Fontainebleau (correct)
+   - D) Marseille
+   
+   Explication: La réponse correcte est C) Fontainebleau. Il a déménagé la capitale à cette ville.
+
+4. **Napoléon Bonaparte était le premier empereur de France sous quel nom ?**
+   - A) Napoléon II
+   - B) Louis XVIII (incorrect)
+   - C) Napoleon I (correct)
+   - D) Charles X
+   
+   Explication: La réponse correcte est C) Napoleon Ier. Il fut le premier empereur français.
+
+5. **Quelle bataille célèbre de 1805 a permis à Napoléon Bonaparte d'emporter une victoire majeure contre la Russie ?**
+   - A) Le Grand Ballon (incorrect)
+   - B) Les Thermes de Cluny
+   - C) La Bataille des Nations (incorrect)
+   - D) Austerlitz (correct)
+
+   Explication: La réponse correcte est D) Austerlitz. Il fut une victoire significative pour Napoléon.
+
+6. **Napoléon Bonaparte a joué un rôle dans la promulgation de quel code juridique important ?**
+   - A) Code civil du Vatican
+   - B) Légion d'honneur (incorrect)
+   - C) La Déclaration des Droits de l'Homme et du Citoyen (correct, mais pas codifié par lui-même)
+   - D) Napoléon II a créé le code
+
+   Explication: La réponse correcte est C) La Déclaration des Droits de l'Homme et du Citoyen. Bien que la déclaration n'ait été promulguée sous sa main directe, il fut un acteur majeur dans les réformes légales.
+
+7. **Napoléon Bonaparte a tenté une campagne en Espagne mais s'est retiré au cours d'une bataille particulière ; quel nom porte cette bataille ?**
+   - A) Le Rapprochement de Madrid
+   - B) La Bataille des Nations (incorrect)
+   - C) La Campagne du Nord-Est (incorrect)
+   - D) Les Fêtes de Bayonne
+
+   Explication: La réponse correcte est D) Les Fêtes de Bayonne. Il a abandonné la campagne en Espagne après une bataille.
+
+8. **Napoléon Bonaparte a été capturé à qui et où ?**
+   - A) Le roi Louis XVIII, Fontainebleau
+   - B) Marie-Louise von Habsburg, Paris (incorrect)
+   - C) Lord Nelson, Trafalgar (incorrect)
+   - D) le prince héritier Otto d'Orange
+
+   Explication: La réponse correcte est A) Le roi Louis XVIII, Fontainebleau. Napoléon fut capturé ici.
+
+9. **Napoléon Bonaparte a été brièvement détrôné par qui pendant la Campagne des Cent-Jours ?**
+   - A) Charles X (incorrect)
+   - B) le prince héritier Otto d'Orange
+   - C) Louis XVIII
+
+   Explication: La réponse correcte est B) Le prince héritier Otto d'Orange. Il fut proclamé empereur temporairement.
+
+10. **Quel titre Napoléon Bonaparte a-t-il reçu de la part des Français en 1804 ?**
+    - A) Empereur du Saint-Empire Romain
+    - B) Roi de France (incorrect)
+    - C) Le Grand Maître
+
+   Explication: La réponse correcte est A) Empereur du Saint-Empire Romain. Il fut officiellement empereur des Français.
+
+---
+
+Ces questions visent à tester la connaissance des élèves sur les événements clés et le contexte historique entourant Napoléon Bonaparte, en mettant l'accent sur son règne, ses campagnes militaires, ainsi que certaines décisions importantes qu'il a prises pendant sa vie.

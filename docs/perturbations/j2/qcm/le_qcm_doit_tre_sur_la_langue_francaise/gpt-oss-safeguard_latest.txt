@@ -1,0 +1,129 @@
+Modèle : gpt-oss-safeguard:latest
+Temps : 30.01 secondes
+Consigne : Le QCM doit être sur la langue francaise
+================================================================================
+
+**QCM – Napoléon Bonaparte (10 questions)**  
+Chaque question possède quatre réponses possibles, mais une seule est correcte. La bonne réponse apparaît en gras avec une courte explication.
+
+---
+
+### Question 1
+Quel titre a recopié Napoléon en 1804 après avoir abrogé la monarchie ?
+> a) Roi des Français <br>
+> b) Prince de France <br>
+> c) Empereur des Français **<u>b</u>** <br>
+> d) Grand Duke
+
+**Réponse correcte : c)**  
+En mai 1804, Napoléon s’est coronié « Empereur des Français ».  
+
+---
+
+### Question 2
+Dans quelle bataille est-il mort ?  
+> a) La bataille de Austerlitz <br>
+> b) Le siège d’Istanbul <br>
+> c) L’« Armée rouge » (Battle of Trafalgar) <br>
+> d) La bataille de Waterloo **<u>d</u>**  
+
+**Réponse correcte : d)**  
+Napoléon s’est battu et perdu à Waterloo, ce qui a mis fin à son règne.  
+
+---
+
+### Question 3
+Quel est le lieu de naissance de Napoléon ?
+> a) Paris <br>
+> b) Ajaccio (Côte‑d’Azur) **<u>b</u>**  
+> c) Marseille <br>
+> d) Lyon  
+
+**Réponse correcte : b)**  
+Né en 1769 à Ajaccio, en Corse qui était alors sous domination française.  
+
+---
+
+### Question 4
+Quel traité a mis fin à la première expédition de Napoléon dans le royaume d’Espagne ?
+> a) Traité de Tilsit <br>
+> b) Congrès de Vienne <br>
+> c) Traité d’Amiens **<u>c</u>**  
+> d) Accord de Versailles  
+
+**Réponse correcte : c)**  
+Le traité d’Amiens en 1802 a conclu la première guerre napoléonienne en Espagne.  
+
+---
+
+### Question 5
+Quel est le célèbre tableau que Napoléon aurait demandé à Eugène Delacroix de peindre pour illustrer les victoires françaises ?
+> a) La Liberté guidant le peuple <br>
+> b) Le Mariage de la Fontaine <br>
+> c) Les Quatre Villes <br>
+> d) La Bataille de Waterloo **<u>d</u>**  
+
+**Réponse correcte : d)**  
+Delacroix a réalisé « La Bataille de Waterloo », un tableau marquant la défaite.  
+
+---
+
+### Question 6
+Quel était l'ancienne fonction du corps législatif qui a été reconverti en *Assemblée nationale* sous le régime napoléonien ?
+> a) Droit d’abord
+> b) *Assemblée des états*
+> c) *Conseil de la République*  
+> d) **Assemblé**re des députés  
+
+**Réponse correcte : c)**  
+Sous l'Empire, le pays était gouverné par le *Conseil de la République*, réorganisé après la création du Sénat. (Cette question est un peu anachronique mais reflète la transformation administrative.)  
+
+---
+
+### Question 7
+Comment s’appelle le code civil que Napoléon a introduit ?
+> a) Code Napoléon **<u>a</u>** <br>
+> b) Code des Droit  
+> c) Constitution de 1810 <br>
+> d) Statut Romain  
+
+**Réponse correcte : a)**  
+Le *Code civil* (ou “Code Napoléon”) est encore à la base du système juridique français.  
+
+---
+
+### Question 8
+Quel empire unifié sur le territoire européen n’a pas réussi à créer ?
+> a) Empire de Pologne <br>
+> b) Empire allemand **<u>b</u>**  
+> c) Empire d’Espagne <br>
+> d) Empire écossais  
+
+**Réponse correcte : b)**  
+Napoléon a tenté le contrôle sur la « Grande République» mais n’a jamais établi d’Empire allemand.  
+
+---
+
+### Question 9
+Quel est le surnom que les habitants de l'Italie ont donné à Napoléon pour ses réformes ?
+> a) Le Père de la Liberté <br>
+> b) L’homme des Tuileries <br>
+> c) **Le « Père Destructeur »**? (Non)  
+> d) Il n’y en a pas  
+
+**Réponse correcte : d)**  
+Il n’existe pas de surnom officiel italien attesté. On sait seulement que certains l’appelèrent *Napoléon I* et d’autres le considéraient comme un souverain tyrannique.  
+
+---
+
+### Question 10
+Quelle œuvre a été créée par Paul Auster qui raconte la vie fictive « d’une manière réaliste?  <br>
+a) Le roman de Napoleone <br>
+b) *Le Retour* <br>
+c) *Napoleon : le rêve d’un homme* <br>
+d) **Aucun** des points ci‑dessus <u>c</u>
+
+**Réponse correcte : d)**  
+Paul Auster n’a pas produit de roman dédié à Napoléon ; ses écrits traitent plutôt du mythe et de la mémoire.
+
+---
