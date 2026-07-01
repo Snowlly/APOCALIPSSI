@@ -1,0 +1,117 @@
+Modèle : gpt-oss-safeguard:latest
+Temps : 30.88 secondes
+Consigne : Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.
+================================================================================
+
+## QCM – Compréhension du Machine Learning  
+*(10 questions, 4 propositions chacune ; réponse correcte indiquée après la question. Toutes les réponses accompagnées d’une brève explication.)*
+
+1. **Quel est le rôle principal de la phase « Séparation train / test » dans un projet ML ?**  
+   a) Réduire le nombre de variables explicatives  
+   b) Évaluer la capacité du modèle à généraliser sur des données non vues  
+   c) Choisir la meilleure métrique d’évaluation  
+   d) Mettre en place une stratégie d’apprentissage par renforcement  
+
+   **Réponse :** *b)* Évaluer la capacité du modèle à généraliser sur des données non vues.  
+   *Explication* : Le split garantit qu’une partie des données sera réservée exclusivement pour tester le modèle, évitant ainsi la fuite (« data‑leakage ») et donnant une mesure fiable d’accurance.
+
+---
+
+2. **Quel objet doit être entraîné uniquement sur les données du jeu « train » lorsqu’on applique un scaler (p. ex. StandardScaler) ?**  
+   a) Le modèle final après l’entraînement  
+   b) Le scaler afin de garder la moyenne et l’écart-type consistants avec le test  
+   c) La matrice de confusion pour la validation croisée  
+   d) L’ensemble de données complet, pour une meilleure homogénéité  
+
+   **Réponse :** *b)* Le scaler afin que la transformation ne dépende que du train.  
+   *Explication* : Le scaler doit être fit sur le train uniquement pour éviter la fuite d’information ; sinon l’accuracy sera faussement gonflée.
+
+---
+
+3. **Dans quel cas l’emploi d’un `Pipeline` scikit‑learn est particulièrement avantageux ?**  
+   a) Quand on ne veut pas que l’on puisse faire des prédictions  
+   b) Lorsque le modèle utilise uniquement les techniques de clustering  
+   c) Pour chaîner plusieurs pré‑traitements et un estimateur dans une seule étape   
+   d) Lorsque la donnée est déjà entièrement échelle‑métrée  
+
+   **Réponse :** *c)* Pour chaîner plusieurs pré‑traitements et un estimateur dans une seule étape.  
+   *Explication* : Le pipeline assure que chaque transformation (imputation, scaling…) est appliquée de façon cohérente aux jeux d’entraînement et de test.
+
+---
+
+4. **Quel algorithme, parmi ceux présentés, est le plus sensible à l’échelle des variables ?**  
+   a) Arbre de décision (`DecisionTreeClassifier`)  
+   b) Régression logistique (`LogisticRegression`)  
+   c) Naïve Bayes (`GaussianNB`)  
+   d) K‑Moyennes (`KMeans`)  
+
+   **Réponse :** *b)* Régression logistique.  
+   *Explication* : La régression logistique repose sur des distances et un critère de vraisemblance qui changent si les axes sont mal échelonnés ; le scaling est donc bénéfique.
+
+---
+
+5. **Quelle métrique n’est pas adaptée lorsqu’une classe minoritaire est de plus grande importance que la majorité ?**  
+   a) Accuracy (proportion d’observations classées correctement)  
+   b) Matrice de confusion  
+   c) Précision / recall spécifique à la classe  
+   d) Courbe ROC  
+
+   **Réponse :** *a)* Accuracy.  
+   *Explication* : Avec des classes déséquilibrées, l’accuracy peut rester élevée en classant tout le monde dans la classe majoritaire ; les métriques ciblées (précision, recall) sont plus informatives.
+
+---
+
+6. **Le quôtre est le moyen le plus simple pour mesurer la performance d’un modèle sur un jeu de test ?**  
+   a) `model.score(X_test, y_test)`  
+   b) `cross_val_score` avec 5 plis  
+   c) `confusion_matrix` uniquement  
+   d) `partial_dependence_plot`  
+
+   **Réponse :** *a)* `model.score(X_test, y_test)`.  
+   *Explication* : Cette méthode retourne l’accuracy (ou d’autres métriques selon le modèle), ce qui suffit pour un aperçu rapide avant d’afficher la matrice de confusion.
+
+---
+
+7. **Lequel des éléments suivants constitue une étape de mise à l’échelle mais pas une partie du pipeline « 5 pass‑through : load, split, train, predict, evaluate » ?**  
+   a) Imputation des valeurs manquantes  
+   b) Normalisation / Standardisation  
+   c) Sélection de modèles par importance  
+   d) Affichage d’un nuage de points  
+
+   **Réponse :** *c)* Sélection de modèles par importance.  
+   *Explication* : Bien qu’importante pour le feature‑engineering, la sélection n’est pas intrinsèque à la boucle d’entraînement standard.
+
+---
+
+8. **Quel problème est directement évité en entraînant un scaler sur l’ensemble du jeu avant `train_test_split` ?**  
+   a) Sur‑ajustement (overfitting)  
+   b) Le risque de “data leakage”  
+   c) L’absence de colonnes catégoriques  
+   d) La perte de la classe minoritaire  
+
+   **Réponse :** *b)* Le risque de “data leakage”.  
+   *Explication* : Fit on the complete dataset permet au scaler d’utiliser l’information du test, créant artificiellement un modèle trop performant.
+
+---
+
+9. **Pourquoi une classification par arbre (`DecisionTreeClassifier`) ne nécessite généralement pas le scaling des variables ?**  
+   a) L’algorithme prend seulement en compte les valeurs binaires  
+   b) Il optimise directement la variance de chaque attribut  
+   c) Les racines d’arbre utilisent un critère basé sur l’indépendance (`Gini` ou `entropy`) plutôt que sur la distance  
+   d) Le scaling fait toujours planter l’algorithme  
+
+   **Réponse :** *c)* Les critères sont basés sur les informations statistiques et non sur des mesures de distance.  
+   *Explication* : Les arbres découpent le curseur en se basant sur les rangs d’une variable, d’où la neutralité vis-à-vis de l’échelle.
+
+---
+
+10. **Quelle approche est recommandée pour construire un pipeline qui pourra être validé (ex : via `cross_val_score`) sans introduire de fuite d’information ?**  
+    a) Utiliser le même scaler sur l’ensemble et appliquer le split par la suite  
+    b) Construire la matrice de confusion avant le split  
+    c) Intégrer le scaler dans un `Pipeline` et faire la validation croisée au niveau du pipeline complet  
+    d) Appliquer un modèle en mode “train + validation” sans séparation  
+
+   **Réponse :** *c)* Intégrer le scaler dans un `Pipeline` et valider via le pipeline complet.  
+   *Explication* : Le pipeline garantit que chaque étape de pré‑traitement est reappliquée à chaque pli, assurant l’indépendance entre train et test à chaque itération.
+
+---

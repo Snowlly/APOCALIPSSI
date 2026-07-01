@@ -1,0 +1,57 @@
+Modèle : phi4-mini:latest
+Temps : 11.30 secondes
+Consigne : Le QCM doit privilégier les questions de compréhension.
+================================================================================
+
+**Question 1 :**
+Napoléon Bonaparte a été empereur des Français pendant combien d'années ?
+a) Dix ans b) Quinze ans c) Seize ans
+b) Seize ans - Napoléon Bonaparte fut Empereur des Français de 1804 jusqu'à son abdication en 1814, soit une période de seize ans.
+c) Douze ans
+
+**Question 2 :**
+Qu'est-ce qui a déclenché la Révolution française ?
+a) La Grande-Bretagne b) Le Concordat c) Les impôts sur le thé d)
+Les impôts sur le thé - L'une des causes immédiates de la Révolution française fut l'opposition au système fiscal injuste, notamment les taxes imposées aux produits essentiels comme le thé.
+
+**Question 3 :**
+Napoléon Bonaparte a été emprisonné à Saint-Helena après quelle bataille ?
+a) La Bataille d'Austerlitz b) Le Siège de Toulon c) La Bataille des Nations
+c) La Bataille des Nations - Après la défaite finale lors du célèbre siège d'Île-de-France, Napoléon Bonaparte fut destitué et exilé sur l'île Saint-Helena.
+
+**Question 4 :**
+Quel titre Napoleon Bonaparte a-t-il porté après le coup d'État de Brumaire ?
+a) Roi des Français b) Empereur des Français c) Duc du Maine
+b) Empereur des Français - Le coup d'État du 18 brumaire (1799) lui permit de renverser la république et de s'emparer effectivement du pouvoir, proclamant l'Empire français.
+
+**Question 5 :**
+Quelle bataille a vu Napoléon Bonaparte vaincre les forces russes ?
+a) La Bataille des Nations b) Le Siège d'Orléans c) Les batailles de Friedland
+c) Les batailles de Friedland - Ces batailles se sont déroulées en juin 1807, et ont été marquées par la défaite écrasante des forces russes.
+
+**Question 6 :**
+Napoléon Bonaparte est mort à l'âge de ?
+a) Cinquante ans b) Trente-cinq ans c) Quarante
+c) Quarante - Napoléon I a régné en tant qu'Empereur français et s'est éteint le 5 mai 1821, soit à l'âge de 51 ans. Cependant, la mort officielle due aux complications du traitement des vapeurs de saudanèse (une forme extrême d'opium) est souvent citée comme étant survenue en septembre 1832, lorsqu'il avait environ quarante-sept ans.
+
+**Question 7 :**
+Napoléon Bonaparte a été vaincu à la bataille de Waterloo. En quelle année cette dernière eut-elle lieu ?
+a) 1813 b) 1815 c) 1820
+b) 1815 - La Bataille des Nations, également connue sous le nom de Napoleonic Wars ou Guerre d'Indépendance italienne a vu ses derniers moments survenir en juin 1815 avec la défaite finale à Waterloo.
+
+**Question 8 :**
+Napoléon Bonaparte s'est marié quatre fois. Combien d'enfants ont-ils eu ensemble ?
+a) Dix enfants b) Quatre-vingt-dix-huit enfants c) Cinquante-quatre enfants
+c) Cinquante-quatre enfants - Le couple Napoléon et Joséphine de Beauharnais a donné naissance à un total de 5 filles (Marie-Clothilde, Hortense, Eugénie, Pauline-Rose-Caroline-Charlotte-Aimée-Eugénie-Louise-Napoleone-Lucien-Joséphine-Hortense) et 14 fils.
+
+**Question 9 :**
+Napoléon Bonaparte a fondé quelle institution académique à Paris ?
+a) Collège de France b) École Polytechnique c) Sorbonne
+b) École Polytechnique - L'École Polytechnique, fondée en 1794 par Napoléon I, est l'une des institutions d'enseignement supérieur les plus prestigieuses pour la formation technique du monde entier.
+
+**Question 10 :**
+Napoléon Bonaparte a été exilé à quelle île après sa défaite finale ?
+a) La Nouvelle-Calédonie b) Saint-Pétersbourg c) Sainte-Hélène
+c) Sainte-Hélène - Après l'abdication de Napoléon le 22 juin 1815, il fut d'abord placé sur la péninsule Ibérique avant d'être envoyé en exil à Saint-Paul Island au large des côtes sud-africaines. Il passa ensuite ses dernières années dans une maison close (l'isolement absolu) sur l'île de Sainte-Hélène.
+
+Explication : Les bonnes réponses ont été choisies pour tester la compréhension du contexte historique et les événements significatifs associés à Napoléon Bonaparte, sans besoin d'informations supplémentaires ou de références externes.

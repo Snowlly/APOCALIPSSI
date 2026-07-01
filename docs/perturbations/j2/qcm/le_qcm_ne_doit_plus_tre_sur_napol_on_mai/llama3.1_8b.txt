@@ -1,0 +1,96 @@
+Modèle : llama3.1:8b
+Temps : 17.92 secondes
+Consigne : Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.
+================================================================================
+
+Voici un QCM de 10 questions sur le Machine Learning :
+
+**1. Qu'est-ce que le Machine Learning ?**
+
+A) Une technique d'optimisation de données
+B) Un type de régression linéaire
+C) L'apprentissage automatique qui permet à une machine de faire des prédictions ou de prendre des décisions en fonction de modèles identifiables dans les données.
+D) Un langage de programmation
+
+Réponse : C) L'apprentissage automatique qui permet à une machine de faire des prédictions ou de prendre des décisions en fonction de modèles identifiables dans les données.
+
+**2. Quel est l'objectif principal du Machine Learning ?**
+
+A) Fournir des informations précises sur un sujet
+B) Prédire le comportement futur d'un système
+C) Automatiser les tâches répétitives
+D) Analyser et interpréter les données
+
+Réponse : B) Prédire le comportement futur d'un système
+
+**3. Quelle est la différence entre la classification et la régression ?**
+
+A) La classification est utilisée pour prédire une variable continue, tandis que la régression est utilisée pour prédire une variable catégorielle.
+B) La classification est utilisée pour prédire une variable catégorielle, tandis que la régression est utilisée pour prédire une variable continue.
+C) La classification est utilisée pour classifier les données en différentes classes, tandis que la régression est utilisée pour prédire la valeur d'une variable continue.
+D) La classification et la régression sont deux termes synonymes.
+
+Réponse : C) La classification est utilisée pour classifier les données en différentes classes, tandis que la régression est utilisée pour prédire la valeur d'une variable continue.
+
+**4. Quel est l'algorithme le plus couramment utilisé pour la classification ?**
+
+A) K-Moyennes
+B) Régression Logistique
+C) Forêt Aléatoire
+D) SVM
+
+Réponse : B) Régression Logistique
+
+**5. Qu'est-ce que la métrique d'évaluation ?**
+
+A) Une mesure de l'efficacité d'un modèle
+B) Une mesure de la qualité des données
+C) Un type de régularisation utilisé pour éviter le sur-apprentissage
+D) Un terme synonyme de modélisation
+
+Réponse : A) Une mesure de l'efficacité d'un modèle
+
+**6. Quel est l'algorithme le plus couramment utilisé pour la régression ?**
+
+A) Régression Linéaire
+B) K-Moyennes
+C) Forêt Aléatoire
+D) SVM
+
+Réponse : A) Régression Linéaire
+
+**7. Qu'est-ce que la sur-apprentissage ?**
+
+A) Un type de biais qui se produit lorsque le modèle est trop complexe pour les données
+B) Un type d'erreur qui se produit lorsque le modèle ne parvient pas à prédire correctement les valeurs de la variable cible
+C) Un terme synonyme de modélisation
+D) Un type de régularisation utilisé pour éviter le sur-apprentissage
+
+Réponse : A) Un type de biais qui se produit lorsque le modèle est trop complexe pour les données
+
+**8. Qu'est-ce que la sous-estimation ?**
+
+A) Un type d'erreur qui se produit lorsque le modèle ne parvient pas à prédire correctement les valeurs de la variable cible
+B) Un type de biais qui se produit lorsque le modèle est trop simple pour les données
+C) Un terme synonyme de modélisation
+D) Un type de régularisation utilisé pour éviter la sous-estimation
+
+Réponse : B) Un type de biais qui se produit lorsque le modèle est trop simple pour les données
+
+**9. Qu'est-ce que la régularisation ?**
+
+A) Un type de biais qui se produit lorsque le modèle est trop complexe pour les données
+B) Un type d'erreur qui se produit lorsque le modèle ne parvient pas à prédire correctement les valeurs de la variable cible
+C) Un terme synonyme de modélisation
+D) Une technique utilisée pour réguler l'complexité du modèle et éviter le sur-apprentissage
+
+Réponse : D) Une technique utilisée pour régulariser l'complexité du modèle et éviter le sur-apprentissage
+
+**10. Quel est l'algorithme le plus couramment utilisé pour la classification en prescience ?**
+
+A) K-Moyennes
+B) Forêt Aléatoire
+C) SVM
+D) Réseau de Neurones
+
+Réponse : C) SVM

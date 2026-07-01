@@ -1,0 +1,5 @@
+Modèle : qwen3.5:9b
+Temps : 24.40 secondes
+Consigne : Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.
+================================================================================
+

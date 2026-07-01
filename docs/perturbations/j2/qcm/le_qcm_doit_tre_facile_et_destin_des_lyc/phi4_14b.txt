@@ -1,0 +1,134 @@
+Modèle : phi4:14b
+Temps : 42.74 secondes
+Consigne : Le QCM doit être facile et destiné à des lycéens.
+================================================================================
+
+### Question 1
+
+**Quand Napoléon Bonaparte est-il né ?**
+
+A) 15 août 1769  
+B) 5 mai 1769  
+C) 10 décembre 1770  
+D) 20 juin 1771  
+
+**Réponse : B) 5 mai 1769**
+
+*Explication : Napoléon Bonaparte est né le 5 mai 1769 sur l'île de Corse, alors récemment annexée par la France.*
+
+### Question 2
+
+**Quelle bataille marque le début du règne napoléonien en France ?**
+
+A) Bataille d'Austerlitz  
+B) Bataille de Trafalgar  
+C) Bataille des Pyramides  
+D) Coup d'État du 18 Brumaire  
+
+**Réponse : D) Coup d'État du 18 Brumaire**
+
+*Explication : Le coup d'État du 18 Brumaire en 1799, orchestré par Napoléon Bonaparte, marque le début de son ascension au pouvoir et l'établissement du Consulat.*
+
+### Question 3
+
+**Quelle est la date à laquelle Napoléon a été couronné empereur des Français ?**
+
+A) 18 juin 1804  
+B) 2 décembre 1804  
+C) 14 juillet 1804  
+D) 1er janvier 1805  
+
+**Réponse : B) 2 décembre 1804**
+
+*Explication : Napoléon Bonaparte s'est couronné empereur des Français de sa propre main le 2 décembre 1804 dans la cathédrale Notre-Dame de Paris.*
+
+### Question 4
+
+**Quelle est l'une des réformes administratives majeures introduites par Napoléon ?**
+
+A) Code civil  
+B) Constitution monarchique  
+C) Déclaration des droits de l'homme  
+D) Traité de Versailles  
+
+**Réponse : A) Code civil**
+
+*Explication : Le Code civil, aussi connu sous le nom de Code Napoléon, a été promulgué en 1804 et reste une base fondamentale du droit civil dans de nombreux pays.*
+
+### Question 5
+
+**À la bataille d'Austerlitz, connue comme "la bataille des Trois Empereurs", qui étaient les deux autres empires impliqués ?**
+
+A) Autriche et Russie  
+B) Prusse et Autriche  
+C) Grande-Bretagne et Espagne  
+D) Prusse et Russie  
+
+**Réponse : A) Autriche et Russie**
+
+*Explication : La bataille d'Austerlitz, qui a eu lieu le 2 décembre 1805, fut une victoire écrasante pour Napoléon contre les forces autrichiennes et russes.*
+
+### Question 6
+
+**Quel est le nom du traité signé après la défaite de Napoléon à Waterloo ?**
+
+A) Traité de Paris  
+B) Traité de Fontainebleau  
+C) Traité de Vienne  
+D) Traité de Tilsit  
+
+**Réponse : B) Traité de Fontainebleau**
+
+*Explication : Le Traité de Fontainebleau, signé en 1814, marque la première abdication de Napoléon et son exil à l'île d'Elbe.*
+
+### Question 7
+
+**Quel est le nom de l'exécuteur qui a tué Napoléon Bonaparte à Sainte-Hélène ?**
+
+A) Pierre Mallet  
+B) John Hudson  
+C) Barry Edward O'Meara  
+D) Charles Tristan  
+
+**Réponse : A) Pierre Mallet**
+
+*Explication : Gérard Augustin Duroc, l'un des plus fidèles amis de Napoléon, a été le dernier à mourir à ses côtés suite à une explosion accidentelle survenue en 1813.*
+
+### Question 8
+
+**Napoléon est connu pour avoir établi quels types d'écoles supérieures ?**
+
+A) Universités et collèges  
+B) Écoles polytechniques  
+C) Lycées  
+D) Académies militaires  
+
+**Réponse : B) Écoles polytechniques et C) Lycées**
+
+*Explication : Napoléon a fondé les écoles polytechniques pour former des ingénieurs et il a réorganisé l'éducation secondaire par la création de lycées.*
+
+### Question 9
+
+**Quel fut le principal résultat de la campagne d'Égypte menée par Napoléon ?**
+
+A) Conquête permanente de l'Égypte  
+B) Accroissement du commerce avec l'Orient  
+C) Découverte des hiéroglyphes et de la stèle de Rosette  
+D) Défaite décisive des forces ottomanes  
+
+**Réponse : C) Découverte des hiéroglyphes et de la stèle de Rosette**
+
+*Explication : Bien que la campagne d'Égypte n'ait pas atteint ses objectifs politiques, elle a conduit à des découvertes archéologiques majeures, dont celles liées aux hiéroglyphes.*
+
+### Question 10
+
+**Quelle est l'une des contributions de Napoléon au développement du système postal en France ?**
+
+A) Introduction du timbre fiscal  
+B) Création d'un service postal national unifié  
+C) Établissement du courrier électronique  
+D) Suppression des postes rurales  
+
+**Réponse : B) Création d'un service postal national unifié**
+
+*Explication : Napoléon a réformé le système postal en instaurant un service national unifié, ce qui a amélioré la communication à travers tout le pays.*

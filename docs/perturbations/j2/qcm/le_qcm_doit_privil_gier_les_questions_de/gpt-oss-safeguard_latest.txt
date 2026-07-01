@@ -1,0 +1,141 @@
+Modèle : gpt-oss-safeguard:latest
+Temps : 29.18 secondes
+Consigne : Le QCM doit privilégier les questions de compréhension.
+================================================================================
+
+**QCM – Napoléon Bonaparte**  
+(Recherchez bien les réponses correctes avant de soumettre!)
+
+---
+
+### Question 1
+Napoléon Bonaparte est né sur quelle île en 1769 ?  
+
+A) Monaco  
+B) Capri  
+C) La Corse  
+D) Sardaigne  
+
+\> **Bonne réponse : C – la Corse**  
+*Explication : Né le 15 août 1769 à Ajaccio, Napoléon est issu d’une famille corse.*
+
+---
+
+### Question 2
+Quel événement a marqué le début de l’« Empire napoléonien » ?  
+
+A) La prise de Paris en 1795  
+B) Le coup d’État du 18 brumaire (9 novembre 1799)  
+C) La victoire à Austerlitz (1805)  
+D) L’abdication de Louis XVI (1793)  
+
+\> **Bonne réponse : B – le coup d’État du 18 brumaire**  
+*Explication : Le 18 brumaire, Napoléon renverse le Directoire et devient Premier Consul, marquant le début réel de son pouvoir.*
+
+---
+
+### Question 3
+Quel texte législatif, adopté en 1804, a fondé les bases du droit civil français ?  
+
+A) La Constitution de l’an III  
+B) Le Code civil (Code Napoléon)  
+C) La loi sur la presse  
+D) La Charte fondamentale  
+
+\> **Bonne réponse : B – le Code civil**  
+*Explication : Ce code réunit les principes fondamentaux du droit français et reste une référence dans de nombreux pays.*
+
+---
+
+### Question 4
+En quelle année Napoléon renait sa première conquête majeure à la bataille d’Austerlitz ?  
+
+A) 1799  
+B) 1805  
+C) 1812  
+D) 1814  
+
+\> **Bonne réponse : B – 1805**  
+*Explication : La victoire à Austerlitz, surnommée « le triomphe de trois empereurs », a consolidé son autorité sur l’Europe continentale.*
+
+---
+
+### Question 5
+Quel royaume a été créé par Napoléon en 1804 après la proclamation de sa couronne ?  
+
+A) Le Royaume de Savoie  
+B) Le Royaume des Deux-Siciles  
+C) L'Empire du Consulat  
+D) Le Royaume d’Italie  
+
+\> **Bonne réponse : C – l’Empire du Consulat**  
+*Explication : Lors du couronnement à la basilique Saint‑Pierre, il devient Empereur et transforme le Consulat en Empire.*
+
+---
+
+### Question 6
+Quelle est la signification de la défaite d’Abbaye (la campagne) pour Napoléon ?  
+
+A) Il a perdu le contrôle de l’Espagne.  
+B) Il s’est arrêté à un tournant critique en Russie.  
+C) Son armée a été décimée lors de la bataille de Waterloo.  
+D) La Grande-Bretagne l’a mis hors d’état de nuire à ses plans.
+
+\> **Bonne réponse : C – son armée a été décimée à Waterloo**  
+*Explication : La défaite du 18 juin 1815 à Waterloo marqua la fin officielle de son règne et sa reddition.*
+
+---
+
+### Question 7
+On appelle souvent Napoléon « le ***…*** ». Quelle est cette appellation ?  
+
+A) L’homme de fer  
+B) Le chef d’État français le plus longtemps en place  
+C) L’empereur qui a mené une république sans jamais la faire
+D) L’imposteur du peuple  
+
+\> **Bonne réponse : A – l’homme de fer**  
+*Explication : Cette expression fait référence à son caractère politique et militaire, ainsi qu’à l’absence d’erreurs visibles durant la couronne.*
+
+---
+
+### Question 8
+Quel était le principal critère d’évaluation pour Napoléon dans ses campagnes ?  
+
+A) L’acquisition de territoires européens.  
+B) La puissance des armées et du matériel.  
+C) Les chiffres d’animation d’un tableau.  
+D) Le soutien de la Couronne Royale.  
+
+\> **Bonne réponse : A – l’acquisition de territoires**  
+*Explication : Napoléon comptait sur le grand nombre de ses victoires pour ancrer son pouvoir, en étendant les frontières françaises.*
+
+---
+
+### Question 9
+Quelle stratégie d’affirmation a été le plus important après la création du Code civil ?  
+
+A) Le contrôle de l’ensemble des États du continent.  
+B) La mise en place d’une monarchie héréditaire.  
+C) L'établissement d’un gouvernement basé sur les lois civiles françaises.  
+D) La suppression du corps diplomatique allemand.  
+
+\> **Bonne réponse : C – Le système juridique**  
+*Explication : Napoléon a cherché à consolider son pouvoir en imposant un cadre juridique stable et centralisé.*
+
+---
+
+### Question 10
+Pourquoi la période de « Les Trois Royaumes » reste-t-elle importante en histoire de France ?  
+
+A) Elle marque l’émergence du communisme en Europe.  
+B) Elle indique la montée d’une société plus démocratique sans autoritairisation directe.  
+C) Elle constitue un pont entre la République et le régime actuel.  
+D) Elle a facilité les discussions autour des alliances européennes.
+
+\> **Bonne réponse : C – Un pont entre la République et le gouvernement actuel**  
+*Explication : Le fait que l’Europe se soit organisée en plusieurs territoires a permis une transition plus douce vers le régime de la monarchie parlementaire.*
+
+---
+
+> Bon travail ! Vous avez ainsi vérifié votre compréhension de l’épisode politique, social et militaire de Napoléon Bonaparte. Veillez à relire les réponses pour renforcer vos connaissances.

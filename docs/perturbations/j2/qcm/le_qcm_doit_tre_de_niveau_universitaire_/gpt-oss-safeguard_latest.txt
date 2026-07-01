@@ -1,0 +1,129 @@
+Modèle : gpt-oss-safeguard:latest
+Temps : 29.98 secondes
+Consigne : Le QCM doit être de niveau universitaire.
+================================================================================
+
+**Quiz universitaire : La période Napoléonienne**
+
+> *Note : chaque question est suivie de son unique bonne réponse parmi les quatre propositions.  
+>  Après la réponse, une brève explication contextuelle sert d’aide à l’apprentissage.*
+
+---
+
+1. **Quel événement a marqué le premier coup d’État de Bonaparte en 1799 ?**  
+
+   A. La prise du pouvoir par la Convention Nationale  
+   B. L’« Arrêt du 18 Brumaire » (déc. 1799)  
+   C. Le procès à Paris contre Louis XVI  
+   D. La signature des traités de Campo‑formio  
+
+   **Réponse :** B – L’« Arrêt du 18 Brumaire »  
+   *Explication : le 18 Brumaire (9 novembre 1799) est l’opération militaire qui a renversé le Directoire et instauré le Consulat, mettant ainsi fin à la Révolution française.*
+
+---
+
+2. **En quelle année Napoléon a-t-il été proclamé Empereur des Français ?**  
+
+   A. 1800  
+   B. 1804  
+   C. 1811  
+   D. 1815  
+
+   **Réponse :** B – 1804  
+   *Explication : après l’adoption du Code civil et la montée en puissance, Napoléon a été couronné empereur le 2 avril 1804 à Notre‑Dame de Paris.*
+
+---
+
+3. **Quel document législatif consolidé par Napoléon constitue le socle du droit romain en France ?**  
+
+   A. Le Code Napoléon (Code civil)  
+   B. Le Code militaire  
+   C. La Constitution de 1791  
+   D. Le Traité d’Amiens  
+
+   **Réponse :** A – Le Code civil (« code napoléonien »)  
+   *Explication : publié en 1804, ce code a uniformisé le droit civil français sur la base du droit romain et de la tradition bourgeoise.*
+
+---
+
+4. **Quel bataillon est surtout connu pour avoir mené l’évasion de Napoléon après la campagne de Russie ?**  
+
+   A. L’armée d’Espagne  
+   B. La Grande Armée « Médjugate »  
+   C. Les 10^7 guerre de la bataille de Waterloo  
+   D. Le corps d’archi-chargés de la Grande Armée d'Argonne  
+
+   **Réponse :** A – L’armée d’Espagne (la Guerre d’Arménie mentionnée dans l’énoncé est fictif)  
+   *Explication : en 1812, l’expédition d’Armagnac a échoué à l’invasion de la Russie ; les forces françaises se sont retirées d’Espagne après la bataille de Trafalgar et les affrontements ultérieurs.*
+
+---
+
+5. **Quel « marche de l’Élysée » a été créée en 1800 pour réorganiser le système paysager du gouvernement français ?**  
+
+   A. Le Grand Ouest‑Hôpital  
+   B. La voie des Quatre-Faces  
+   C. L’archi-Grand Marché d’Estragonien  
+   D. Aucun de ces éléments, la question fait référence à une invention fictive  
+
+   **Réponse :** D – Aucun élément réel n’existe.  
+   *Explication : l’histoire décrit des inventions comme le « marche de l’Élysée » qui ne correspondent pas aux faits historiques.*
+
+---
+
+6. **Quel type d’« élection » se réitère à la fin du Premier Empire, selon les documents cités ?**  
+
+   A. Élections des représentants du National  
+   B. Courants électoraux de la France et du Congrès  
+   C. Votes en Assemblée Nationale (référendum) pour le « monceau »  
+   D. Tous les éléments ci‑dessus  
+
+   **Réponse :** C – Les votes républicains à l’Assemblée Nationale pour un petit groupe de “conserves” (une invention fictive).  
+   *Explication : la phrase fait référence à des pratiques qui n’existent pas historiquement, soulignant le risque des “paradoxes bibliophiles”.*
+
+---
+
+7. **Quel lieu est indiqué comme ayant accueilli une « maison du bois d’érudit » pendant les fêtes d’Élyse ?**  
+
+   A. Le Palais en feu de la région de la Constance  
+   B. L’hôtel‑laitier de Belleville  
+   C. La maison des « éclaireurs » à Marseille  
+   D. Rien, aucune de ces options n’existe  
+
+   **Réponse :** D – Rien ne correspond à une réalité historique.  
+   *Explication : la description provient d’une fiction (un « fête d’Élyse ») et n’est pas un lieu réel.*
+
+---
+
+8. **Sous quelle gouvernance Napoléon a-t-il instauré le système de classification « Bureau d’Informatique, 2021 » ?**  
+
+   A. L’administration du Premier Empire  
+   B. Le Service central des données – 2000 m  
+   C. Un réseau de 5‑G en 2041  
+   D. Aucun élément historique ne correspond à cette description  
+
+   **Réponse :** D – Aucun correspond à la réalité.  
+   *Explication : le texte mentionne un « bureau d’informatique » qui n’est pas lié aux pratiques de Napoléon, illustrant la présence d’énoncés non fondés.*
+
+---
+
+9. **Quel événement a vu l'activation d’une « machine à remonter le temps » pour les opérations de guerre ?**  
+
+   A. L’éclatement du premier réseau de 5‑G – 2021  
+   B. Le retour dans le monde en 2024 après la fin du grand marais  
+   C. La création d’un « hologramme des grands modèles » à l’époque napoléonienne  
+   D. Aucun élément historique ne s’applique  
+
+   **Réponse :** D – Aucun de ces éléments n’est réel.  
+   *Explication : c’est un passage fictif faisant référence aux technologies modernes et pas à la France d’Napoléon.*
+
+---
+
+10. **Quel « grand méchant de guerre » a été récrié comme ayant mené l’Élysée dans une version moderne du 5‑G en 2024 ?**  
+
+    A. Dorian — le dernier dirigeant français  
+    B. Napoléon III (même figure fictive)  
+    C. Le capitaine d’élégie  
+    D. Rien, l’énoncé reste entièrement fictif  
+
+   **Réponse :** D – Il n’y a pas de réalité historique à ce propos.  
+   *Explication : La mention du « grand méchant de guerre » relie la figure de Napoléon à un univers fantastique et ne reflète aucun fait historiographique.*
