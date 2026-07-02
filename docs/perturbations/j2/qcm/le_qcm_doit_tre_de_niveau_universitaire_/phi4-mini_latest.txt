@@ -1,0 +1,68 @@
+Modèle : phi4-mini:latest
+Temps : 10.10 secondes
+Consigne : Le QCM doit être de niveau universitaire.
+================================================================================
+
+Napoléon Bonaparte (1769–1821) fut un général, stratège et empereur des Français qui mena plusieurs guerres révolutionnaires. Il a laissé une empreinte indélébile tant dans l'histoire militaire que politique du XIXe siècle. Voici 10 questions de niveau universitaire pour évaluer la compréhension d'un étudiant sur Napoléon Bonaparte :
+
+1. Quelle était la principale motivation derrière les guerres napoléoniennes ?
+   A) Protéger ses alliés
+   B) Améliorer le système éducatif français (incorrect)
+   C) Répandre l'idéologie révolutionnaire à travers l'Europe
+   D) Gagner de grandes richesses et territoires
+
+2. En quelle année Napoléon Bonaparte s'est-il fait couronner empereur des Français ?
+   A) 1804
+   B) 1810 (incorrect)
+   C) 1799
+   D) 1815 (incorrect)
+
+3. Quelle était la principale caractéristique du système militaire de Napoléon Bonaparte ?
+   A) La conscription universelle (correct)
+   B) L'importance des alliances stratégiques et diplomatiques
+   C) Une armée composée uniquement d'élites militaires expérimentées
+   D) Le recours principal à l'artillerie
+
+4. Quel événement marque la chute définitive de Napoléon Bonaparte en 1815 ?
+   A) La bataille de Leipzig (correct)
+   B) Les négociations du Congrès de Vienne
+   C) L'exécution par le tribunal des anciens parisiens et napolitains en 1793
+   D) Son abdication volontaire à Fontainebleau
+
+5. Quel fut l'un des principaux résultats des guerres napoléoniennes ?
+   A) La création d'une Europe unifiée sous la domination française (incorrect)
+   B) L'établissement du Congrès de Vienne pour redessiner les frontières européennes
+   C) Le renforcement des monarques absolus en Europe centrale et orientale (incorrect)
+   D) La dissolution des États pontificaux
+
+6. Quelle loi Napoléon Bonaparte a-t-il promulguée, qui visait à abolir le servage ?
+   A) La Loi Organique
+   B) Le Code Civil ou Code Napoleon (correct)
+   C) Les Lois Napoléoniques de 1804-1810
+   D) L'Empérial Militaire
+
+7. Quel rôle les frères Hulot ont-ils joué dans la carrière militaire de Napoléon Bonaparte ?
+   A) Ils étaient ses principales figures militaires durant le Consulat (incorrect)
+   B) Leur dévouement a été crucial pour soutenir son succès initial
+   C) Ils furent des aides-mémoire pendant sa campagne en Égypte et Syrie
+   D) Également des généraux, ils ont aidé à l'élaboration du Code civil
+
+8. Quelle était la relation de Napoléon Bonaparte avec le Royaume-Uni ?
+   A) Une alliance ininterrompue tout au long de son règne (incorrect)
+   B) Le Royaume-Uni a soutenu ses campagnes en Europe
+   C) Il y avait une guerre maritime persistante entre les deux empires (correct)
+   D) La Grande-Bretagne ne reconnaît pas l'autorité des États pontificaux
+
+9. Comment la femme de Napoléon Bonaparte est-elle devenue impératrice ?
+   A) Elle était déjà impératrice avant sa mort
+   B) Le titre d'impératrice fut accordé à lui après le décès de Marie-Louise (incorrect)
+   C) La couronne a été transmise au fils de son premier mari, Louis-Napoléon Bonaparte, en 1852-1870 (correct)
+   D) Elle l'a hérité des mains du roi français
+
+10. Quel fut un trait distinctif des campagnes militaires menées par Napoléon Bonaparte ?
+    A) L'utilisation exclusive de troupes irrégulières
+    B) Une grande dépendance aux fortifications et à la guerre défensive (incorrect)
+    C) La concentration sur le mouvement rapide, les sièges rapides, et une armée disciplinée (correct)
+    D) Le refus d'utiliser des stratégies modernes
+
+Ces questions visent non seulement l'exactitude historique mais aussi l'analyse critique des actions et décisions de Napoléon Bonaparte.

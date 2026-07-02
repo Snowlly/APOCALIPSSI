@@ -1,0 +1,38 @@
+modele,consigne,temps_secondes,nb_caracteres
+qwen3.5:9b,Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.,30.99,0
+phi4-mini:latest,Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.,15.06,7493
+qwen3.5:4b,Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.,16.98,0
+phi4:14b,Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.,39.29,5187
+gemma3:27b,Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.,229.95,6562
+llama3.1:8b,Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.,17.92,3877
+gpt-oss-safeguard:latest,Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.,30.88,6130
+qwen3.5:9b,Le QCM doit être facile et destiné à des lycéens.,33.74,0
+phi4-mini:latest,Le QCM doit être facile et destiné à des lycéens.,11.15,3701
+qwen3.5:4b,Le QCM doit être facile et destiné à des lycéens.,22.33,0
+phi4:14b,Le QCM doit être facile et destiné à des lycéens.,42.74,4095
+gemma3:27b,Le QCM doit être facile et destiné à des lycéens.,174.85,3498
+llama3.1:8b,Le QCM doit être facile et destiné à des lycéens.,19.74,3618
+gpt-oss-safeguard:latest,Le QCM doit être facile et destiné à des lycéens.,28.99,3632
+qwen3.5:9b,Le QCM doit être sur la langue francaise,33.5,0
+phi4-mini:latest,Le QCM doit être sur la langue francaise,11.84,4040
+qwen3.5:4b,Le QCM doit être sur la langue francaise,22.29,0
+phi4:14b,Le QCM doit être sur la langue francaise,34.38,4100
+gemma3:27b,Le QCM doit être sur la langue francaise,216.36,5894
+llama3.1:8b,Le QCM doit être sur la langue francaise,18.8,4077
+gpt-oss-safeguard:latest,Le QCM doit être sur la langue francaise,30.01,3796
+qwen3.5:9b,Le QCM doit privilégier les questions de compréhension.,33.59,0
+phi4-mini:latest,Le QCM doit privilégier les questions de compréhension.,11.3,3826
+qwen3.5:4b,Le QCM doit privilégier les questions de compréhension.,22.16,0
+phi4:14b,Le QCM doit privilégier les questions de compréhension.,42.56,4206
+gemma3:27b,Le QCM doit privilégier les questions de compréhension.,233.94,6571
+llama3.1:8b,Le QCM doit privilégier les questions de compréhension.,19.97,3888
+gpt-oss-safeguard:latest,Le QCM doit privilégier les questions de compréhension.,29.18,4680
+qwen3.5:9b,Le QCM doit être de niveau universitaire.,32.45,0
+phi4-mini:latest,Le QCM doit être de niveau universitaire.,10.1,3604
+qwen3.5:4b,Le QCM doit être de niveau universitaire.,21.62,0
+phi4:14b,Le QCM doit être de niveau universitaire.,44.66,4626
+gemma3:27b,Le QCM doit être de niveau universitaire.,250.08,7558
+llama3.1:8b,Le QCM doit être de niveau universitaire.,20.08,4256
+gpt-oss-safeguard:latest,Le QCM doit être de niveau universitaire.,29.98,5280
+qwen3.5:9b,Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.,24.4,0
+phi4-mini:latest,Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.,9.04,3448

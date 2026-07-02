@@ -1,0 +1,118 @@
+Modèle : llama3.1:8b
+Temps : 18.80 secondes
+Consigne : Le QCM doit être sur la langue francaise
+================================================================================
+
+Voici un QCM de 10 questions sur le cours sur l'IA, le ML et le DL :
+
+**1. Quel est le but principal de la Data Science ?**
+
+A) Améliorer les performances des modèles
+B) Apprendre à partir d'exemples et résoudre des problèmes complexes
+C) Analyser et visualiser les données
+D) Développer des logiciels
+
+Réponse : B) Apprendre à partir d'exemples et résoudre des problèmes complexes
+
+Explication : La Data Science est une discipline qui vise à apprendre à partir de données pour prendre des décisions éclairées.
+
+**2. Quel est le nom du premier modèle d'intelligence artificielle développé ?**
+
+A) Perceptron
+B) Réseau neuronal
+C) Forêt aléatoire
+D) Boosting
+
+Réponse : A) Perceptron
+
+Explication : Le Perceptron est un modèle d'apprentissage automatique créé en 1958 par Frank Rosenblatt.
+
+**3. Quel est le type de problèmes résolus par les réseaux neuronaux ?**
+
+A) Problèmes de classification
+B) Problèmes de régression
+C) Problèmes de clustering
+D) Problèmes de suppression
+
+Réponse : A) Problèmes de classification et B) Problèmes de régression
+
+Explication : Les réseaux neuronaux sont capables de résoudre des problèmes de classification (ex. reconnaissance d'images) et des problèmes de régression (ex. prévision de prix).
+
+**4. Quel est l'objectif principal du pipeline en Data Science ?**
+
+A) Charger les données
+B) Séparer les données en entraînement et test
+C) Entraîner un modèle
+D) Prédire les résultats
+
+Réponse : B) Séparer les données en entraînement et test
+
+Explication : Le pipeline est une séquence d'étapes qui permet de traiter les données et de former un modèle.
+
+**5. Qu'est-ce qu'un pipeline ?**
+
+A) Un modèle d'apprentissage automatique
+B) Une fonction pour charger les données
+C) Une fonction pour entraîner un modèle
+D) Une séquence d'étapes pour traiter les données
+
+Réponse : D) Une séquence d'étapes pour traiter les données
+
+Explication : Un pipeline est une suite d'étapes qui permet de traiter les données et de former un modèle.
+
+**6. Quel est le problème des modèles apprenant les biais de leurs données ?**
+
+A) Ils ne sont pas capables de prédire les résultats
+B) Ils sont trop sensibles aux fluctuations des données
+C) Ils apprennent les biais de leurs données
+D) Ils ne peuvent pas être entraînés sur des jeux de données petit
+
+Réponse : C) Ils apprennent les biais de leurs données
+
+Explication : Les modèles peuvent apprendre les biais de leurs données, ce qui peut conduire à des prédictions incorrectes.
+
+**7. Quel est l'importance de la mise en échelle des données ?**
+
+A) Elle permet d'améliorer les performances du modèle
+B) Elle permet de réduire le nombre de features
+C) Elle permet de charger les données plus rapidement
+D) Elle n'est pas importante
+
+Réponse : A) Elle permet d'améliorer les performances du modèle
+
+Explication : La mise en échelle des données est essentielle pour améliorer les performances du modèle.
+
+**8. Quel est le type de problèmes résolus par les forêts aléatoires ?**
+
+A) Problèmes de classification
+B) Problèmes de régression
+C) Problèmes de clustering
+D) Problèmes de suppression
+
+Réponse : A) Problèmes de classification et B) Problèmes de régression
+
+Explication : Les forêts aléatoires sont capables de résoudre des problèmes de classification (ex. reconnaissance d'images) et des problèmes de régression (ex. prévision de prix).
+
+**9. Quel est le but principal du pipeline en Data Science ?**
+
+A) Charger les données
+B) Séparer les données en entraînement et test
+C) Entraîner un modèle
+D) Prédire les résultats
+
+Réponse : B) Séparer les données en entraînement et test
+
+Explication : Le pipeline est une séquence d'étapes qui permet de traiter les données et de former un modèle.
+
+**10. Qu'est-ce qu'un pipeline ?**
+
+A) Un modèle d'apprentissage automatique
+B) Une fonction pour charger les données
+C) Une fonction pour entraîner un modèle
+D) Une séquence d'étapes pour traiter les données
+
+Réponse : D) Une séquence d'étapes pour traiter les données
+
+Explication : Un pipeline est une suite d'étapes qui permet de traiter les données et de former un modèle.
+
+J'espère que cela vous sera utile !

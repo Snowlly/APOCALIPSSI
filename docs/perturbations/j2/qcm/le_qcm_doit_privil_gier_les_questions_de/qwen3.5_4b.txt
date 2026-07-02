@@ -1,0 +1,5 @@
+Modèle : qwen3.5:4b
+Temps : 22.16 secondes
+Consigne : Le QCM doit privilégier les questions de compréhension.
+================================================================================
+

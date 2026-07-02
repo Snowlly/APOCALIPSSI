@@ -1,0 +1,40 @@
+Bonjour Monsieur Petit,
+
+Nous accusons réception de votre demande d’accès à vos données personnelles formulée au titre de l’article 15 du Règlement Général sur la Protection des Données, concernant le compte EduTutor IA associé à l’adresse [hugo.petit@test.local](mailto:hugo.petit@test.local).
+
+Après vérification de votre identité et de votre compte utilisateur, nous vous confirmons que l’export de vos données personnelles est disponible au téléchargement via le lien sécurisé suivant :
+
+EduTutoria.fr/donnees-personnelles/02uplih48sf7891sb759
+
+Ce lien est personnel, confidentiel et valable pendant 7 jours à compter de l’envoi de ce message. Pour des raisons de sécurité, nous vous invitons à ne pas le transférer à un tiers.
+
+L’export transmis contient les catégories de données suivantes :
+
+* données de compte : identifiant utilisateur, adresse email, date de création du compte, date de dernière connexion ;
+* contenus fournis : cours, textes ou documents que vous avez importés sur la plateforme ;
+* contenus générés : quiz créés à partir de vos cours ou textes ;
+* données d’usage pédagogique : réponses aux quiz, scores obtenus, dates de réalisation et historique associé ;
+* signalements : éventuels signalements ou retours que vous avez émis sur un quiz ou une réponse ;
+* logs d’audit vous concernant : événements techniques liés à votre compte et à votre demande d’accès.
+
+Les données sont fournies dans un format structuré, couramment utilisé et lisible par machine, afin de permettre leur consultation et leur portabilité. L’export a été filtré strictement sur votre compte utilisateur afin d’éviter toute transmission de données appartenant à d’autres utilisateurs.
+
+Nous vous rappelons également que vous disposez, conformément au RGPD, des droits suivants :
+
+* droit de rectification, article 16 : vous pouvez demander la correction de données inexactes ou incomplètes ;
+* droit à l’effacement, article 17 : vous pouvez demander la suppression de certaines données vous concernant, sous réserve de nos obligations légales ou contractuelles ;
+* droit à la limitation du traitement, article 18 : vous pouvez demander le gel temporaire de certains traitements dans les cas prévus par le RGPD ;
+* droit à la portabilité, article 20 : vous pouvez récupérer les données que vous nous avez fournies dans un format exploitable et, lorsque cela est techniquement possible, les transmettre à un autre responsable de traitement.
+
+Pour toute question complémentaire, contestation ou demande d’exercice de vos droits, vous pouvez contacter notre Délégué à la Protection des Données fictif :
+
+DPO EduTutor IA
+Madame Claire Bernard
+[dpo@edututor-ia.local](mailto:dpo@edututor-ia.local)
+
+Nous restons à votre disposition pour toute précision concernant le contenu de l’export ou les modalités d’exercice de vos droits.
+
+Cordialement,
+
+L’équipe EduTutor IA
+Équipe 18 – APOCAL’IPSSI 2026

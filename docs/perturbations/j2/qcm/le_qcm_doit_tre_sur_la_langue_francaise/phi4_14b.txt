@@ -1,0 +1,96 @@
+Modèle : phi4:14b
+Temps : 34.38 secondes
+Consigne : Le QCM doit être sur la langue francaise
+================================================================================
+
+Voici un questionnaire à choix multiples (QCM) basé sur le cours concernant Napoléon Bonaparte, avec des questions en français. 
+
+1. Quelle bataille marque le début de la carrière militaire exceptionnelle de Napoléon ?
+   - a) Bataille d'Austerlitz
+   - b) Bataille d'Arcole
+   - c) Bataille de Trafalgar
+   - d) Bataille de Marengo
+
+   **Réponse correcte : b) Bataille d'Arcole**  
+   *Explication : La bataille d'Arcole en 1796 fut l'une des premières grandes victoires de Napoléon, établissant sa réputation militaire.*
+
+2. Quel titre a été conféré à Napoléon Bonaparte par le Sénat après son coup d'État du 18 Brumaire ?
+   - a) Empereur des Français
+   - b) Premier Consul de la République française
+   - c) Roi des Bourbons
+   - d) Duc de l’Empire
+
+   **Réponse correcte : b) Premier Consul de la République française**  
+   *Explication : Suite au coup d'État du 18 Brumaire, Napoléon devint Premier Consul avant d'être proclamé Empereur des Français en 1804.*
+
+3. Quelle est l'œuvre législative majeure mise en place par Napoléon ?
+   - a) La Constitution de 1791
+   - b) Le Code civil des Français (Code Napoléon)
+   - c) Les Droits de l’Homme et du Citoyen
+   - d) L'Acte additionnel aux Constitutions de l'Empire
+
+   **Réponse correcte : b) Le Code civil des Français (Code Napoléon)**  
+   *Explication : Le Code civil, promulgué en 1804 sous le nom de Code Napoléon, a unifié et modernisé les lois civiles françaises.*
+
+4. À quel empire Napoléon s'est-il couronné empereur à Paris ?
+   - a) Empire austro-hongrois
+   - b) Royaume-Uni de Grande-Bretagne et d'Irlande
+   - c) Empire des Français
+   - d) Deuxième République française
+
+   **Réponse correcte : c) Empire des Français**  
+   *Explication : Napoléon s'est couronné empereur des Français le 2 décembre 1804 dans la cathédrale Notre-Dame de Paris.*
+
+5. Quelle est la bataille qui a conduit à l'abdication de Napoléon en 1814 ?
+   - a) Bataille d'Austerlitz
+   - b) Bataille de Leipzig
+   - c) Campagne de Russie
+   - d) Campagne de France
+
+   **Réponse correcte : d) Campagne de France**  
+   *Explication : Après les défaites subies lors de la campagne de France, Napoléon fut contraint à l'abdication en 1814.*
+
+6. Quel est le nom du traité qui a rétabli la paix entre la France et ses ennemis après la première abdication de Napoléon ?
+   - a) Traité de Versailles
+   - b) Traité de Tilsit
+   - c) Traité de Paris (1814)
+   - d) Traité de Fontainebleau
+
+   **Réponse correcte : c) Traité de Paris (1814)**  
+   *Explication : Le traité de Paris, signé en 1814, a rétabli la paix entre la France et les puissances coalisées contre elle.*
+
+7. Quel événement majeur s'est produit pendant le retour de Napoléon depuis l'exil à Elbe ?
+   - a) Bataille d'Essling
+   - b) Campagne des Cent-Jours
+   - c) Traité de Lunéville
+   - d) Congrès de Vienne
+
+   **Réponse correcte : b) Campagne des Cent-Jours**  
+   *Explication : Le retour de Napoléon à Paris début mai 1815, connu sous le nom de "Cent-Jours", a marqué son regain de pouvoir avant Waterloo.*
+
+8. Où Napoléon s'est-il exilé après sa seconde abdication ?
+   - a) Île d'Elbe
+   - b) Sainte-Hélène
+   - c) Malte
+   - d) Suisse
+
+   **Réponse correcte : b) Sainte-Hélène**  
+   *Explication : Après sa défaite à Waterloo et la seconde abdication, Napoléon fut exilé sur l'île de Sainte-Hélène par les Britanniques.*
+
+9. Qui était la première épouse de Napoléon Bonaparte ?
+   - a) Joséphine de Beauharnais
+   - b) Marie-Louise d'Autriche
+   - c) Élisabeth Patterson
+   - d) Pauline Bonaparte
+
+   **Réponse correcte : a) Joséphine de Beauharnais**  
+   *Explication : Joséphine, avec qui Napoléon se maria en 1796, fut son épouse jusqu'à leur divorce en 1809.*
+
+10. Quel titre impérial a-t-il accordé à sa fille née de l'union avec Marie-Louise ?
+    - a) Duchesse d'Aquitaine
+    - b) Reine des Pays-Bas
+    - c) Archiduchesse d’Autriche
+    - d) Régente du Royaume de France
+
+   **Réponse correcte : c) Archiduchesse d’Autriche**  
+   *Explication : Napoléon donna à sa fille, Marie-Louise, le titre d'Archiduchesse d’Autriche suite à son mariage avec l'empereur François II.*

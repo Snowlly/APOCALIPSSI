@@ -1,0 +1,5 @@
+Modèle : qwen3.5:4b
+Temps : 22.29 secondes
+Consigne : Le QCM doit être sur la langue francaise
+================================================================================
+

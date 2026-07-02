@@ -1,0 +1,88 @@
+Modèle : gemma3:27b
+Temps : 174.85 secondes
+Consigne : Le QCM doit être facile et destiné à des lycéens.
+================================================================================
+
+## QCM Napoléon - Niveau Lycée
+
+Voici un questionnaire de 10 questions pour tester vos connaissances sur Napoléon Bonaparte, adapté à un niveau lycée. Bonne chance !
+
+**1. En quelle année Napoléon Bonaparte est-il né ?**
+   a) 1759
+   b) 1769
+   c) 1804
+   d) 1815
+   **Réponse : b) 1769**
+   *Explication : Napoléon Bonaparte est né le 15 août 1769 à Ajaccio, en Corse.*
+
+**2. Quel événement majeur marque le début de la carrière militaire de Napoléon ?**
+   a) La Révolution Française
+   b) Le Siège de Toulon
+   c) L'invention du canon à vapeur
+   d) Son mariage avec Joséphine
+   **Réponse : b) Le Siège de Toulon**
+   *Explication : En 1793, Napoléon s'est distingué lors du siège de Toulon en reprenant la ville aux Anglais.*
+
+**3. Quel titre Napoléon Bonaparte acquiert-il suite au coup d'État du 18 Brumaire ?**
+   a) Roi de France
+   b) Premier Consul
+   c) Empereur des Français
+   d) Duc d’Austerlitz
+   **Réponse : b) Premier Consul**
+   *Explication : Le coup d'État du 18 Brumaire (9 novembre 1799) a instauré le Consulat, et Napoléon est devenu Premier Consul.*
+
+**4. En quelle année Napoléon Bonaparte se fait-il couronner Empereur des Français ?**
+   a) 1804
+   b) 1812
+   c) 1799
+   d) 1815
+   **Réponse : a) 1804**
+   *Explication : Le sacre de Napoléon eut lieu le 2 décembre 1804 en la cathédrale Notre-Dame de Paris.*
+
+**5. Quelle célèbre bataille navale marque un tournant dans les guerres napoléoniennes, affaiblissant la domination française sur les mers ?**
+   a) Austerlitz
+   b) Trafalgar
+   c) Iéna
+   d) Friedland
+   **Réponse : b) Trafalgar**
+   *Explication : La bataille de Trafalgar (1805), contre l'Angleterre, a été une défaite décisive pour la marine française.*
+
+**6. Quel pays Napoléon n’a-t-il pas cherché à envahir ou contrôler directement ?**
+   a) L'Espagne
+   b) Le Portugal
+   c) La Russie
+   d) Les États-Unis
+   **Réponse : d) Les États-Unis**
+   *Explication : Bien que les relations franco-américaines aient été complexes à cette époque, Napoléon n’a pas cherché une invasion directe des USA.*
+
+**7. Quelle campagne militaire de Napoléon s'est soldée par un désastre en raison du climat rigoureux et des difficultés logistiques ?**
+   a) La campagne d'Égypte
+   b) La campagne d'Italie
+   c) La campagne de Russie
+   d) La campagne d'Autriche
+   **Réponse : c) La campagne de Russie**
+   *Explication : La campagne de Russie (1812) a été un désastre pour la Grande Armée, décimée par le froid et le manque de ravitaillement.*
+
+**8. Après sa première abdication en 1814, Napoléon est exilé sur quelle île ?**
+   a) La Corse
+   b) Elbe
+   c) Sainte-Hélène
+   d) Malte
+   **Réponse : b) Elbe**
+   *Explication :  Napoléon a été exilé sur l'île d'Elbe après sa première abdication, avant de s'échapper et revenir au pouvoir pendant les Cent-Jours.*
+
+**9. La bataille de Waterloo (1815) est décisive car elle marque…**
+   a) Le début du Premier Empire.
+   b) Une victoire française éclatante sur la Prusse.
+   c) La défaite finale et définitive de Napoléon Bonaparte.
+   d) L'alliance entre la France, l'Autriche et la Russie.
+   **Réponse : c) La défaite finale et définitive de Napoléon Bonaparte.**
+   *Explication :  Après Waterloo, Napoléon abdique définitivement et est exilé à Sainte-Hélène.*
+
+**10. Sur quelle île Napoléon Bonaparte décède-t-il en 1821 ?**
+   a) La Corse
+   b) Elbe
+   c) Sainte-Hélène
+   d) Malte
+   **Réponse : c) Sainte-Hélène**
+    *Explication : Napoléon est mort en exil sur l'île de Sainte-Hélène, dans l'Atlantique Sud.*

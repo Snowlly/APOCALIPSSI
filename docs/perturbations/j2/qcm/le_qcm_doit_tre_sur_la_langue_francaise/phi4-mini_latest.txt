@@ -1,0 +1,122 @@
+Modèle : phi4-mini:latest
+Temps : 11.84 secondes
+Consigne : Le QCM doit être sur la langue francaise
+================================================================================
+
+**Question 1 : Sur quel continent Napoléon a-t-il passé le plus de temps pendant ses campagnes militaires ?**
+A) Europe  
+B) Amérique du Nord  
+C) Asie  
+D) Afrique  
+
+*Explication : La majorité des conquêtes et des campagnes de Napoléon se sont déroulées en Europe. Il n'a pas beaucoup voyagé hors d'Europe.*
+
+**Réponse : A) Europe**
+
+---
+
+**Question 2 : Quel titre officiel a porté Napoléon Bonaparte avant qu'il ne devienne Empereur du Saint-Empire romain germanique ?**
+A) Roi des Français  
+B) Duca di Brabante  
+C) Premier Consul de la République française  
+D) Grand Maître des Ordres  
+
+*Explication : Avant d'être empereur, Napoléon Bonaparte était le premier consul français.*
+
+**Réponse : C) Premier Consul de la République française**
+
+---
+
+**Question 3 : Quelle bataille a marqué l'apogée militaire de Napoléon avant sa défaite à Waterloo ?**
+A) La Bataille des Nations  
+B) Le Siège de Toulon  
+C) L'Invasion d'Allemagne (1812)  
+D) Les Cent Jours  
+
+*Explication : C'est durant la campagne en Allemagne, plus précisément le combat de l'Empereur au champ de Belle-Alliance le 18 juin 1815.*
+
+**Réponse : A) La Bataille des Nations**
+
+---
+
+**Question 4 : Quel est le nom du célèbre traité signé par Napoléon Bonaparte qui marqua la fin effective de son règne ?**
+A) Traité d'Amiens  
+B) Traité de Fontainebleau  
+C) Traité de Paris ou Convention de Paris  
+D) Traité des Pyrénées  
+
+*Explication : Le Traité de Paris (ou Convention de Paris), signé le 30 mai 1814, marqua la fin du règne de Napoléon.*
+
+**Réponse : C) Traité de Paris ou Convention de Paris**
+
+---
+
+**Question 5 : Qui était l'épouse légitime de Josephine de Beauharnais, épouse préférée de Napoléon Bonaparte ?**
+A) Marie Louise d'Autriche  
+B) Joséphine Tascher-de-la-Pagerie  
+C) Hortense de Beauharnais  
+D) Anne-Louise-Germaine Necker  
+
+*Explication : Josephine était une femme issue des Caraïbes, née en Guadeloupe.*
+
+**Réponse : B) Joséphine Tascher-de-la-Pagerie**
+
+---
+
+**Question 6 : Quel poste Napoléon Bonaparte a-t-il occupé avant de devenir Premier Consul ?**
+A) Commandant d'une division du Directoire  
+B) Inspecteur général des gardes nationales parisiennes  
+C) Capitaine dans l'armée révolutionnaire française  
+D) Maréchal en chef des armées françaises  
+
+*Explication : Avant de monter au pouvoir, Napoléon était un capitaine ayant participé à la prise de Toulon.*
+
+**Réponse : C) Capitaine dans l'armée révolutionnaire française**
+
+---
+
+**Question 7 : Quelle a été une conséquence directe du Coup d'État de Brumaire en 1799 pour Napoleon Bonaparte ?**
+A) Il devient le Diktaturrat  
+B) Il fut exilé à la Nouvelle-Calédonie  
+C) L'Édit des 22 feux est révoqué, abolissant les districts révolutionnaires français et fondant l'an VIII (vendémiaire an II) en France.  
+D) La Déclaration des droits de l'homme s'éteint  
+
+*Explication : Le coup d'État du 9 novembre 1799 a conduit à la création du Consulat.*
+
+**Réponse : C) L'Édit des 22 feux est révoqué, abolissant les districts révolutionnaires français et fondant l'an VIII (vendémiaire an II) en France.**
+
+---
+
+**Question 8 : Quel nom Napoléon Bonaparte portait-il lorsqu'il a été nommé Duc d'Elba ?**
+A) Duke of Boulogne  
+B) Count of Florestier  
+C) Earl of Waterloo  
+D) Marquis de Malet  
+
+*Explication : En juillet 1810, il fut fait duc d'Elbe.*
+
+**Réponse : A) Duke of Boulogne**
+
+---
+
+**Question 9 : Quel traité Napoléon Bonaparte a-t-il signé avec la Grande-Bretagne en avril 1802 ?**
+A) Traité de Tolentino  
+B) Traité de Lunéville  
+C) Traité d'Amiens  
+D) Convention du Montmartre  
+
+*Explication : Le Troisième Partage, ou Traité d'Amiens a été signé entre Napoléon et la Grande-Bretagne.*
+
+**Réponse : C) Traité d'Amiens**
+
+---
+
+**Question 10 : Quelle célèbre armée s'est illustrée lors des guerres napoléoniennes ?**
+A) La Garde impériale  
+B) L'Armée du Rhin  
+C) Les Grenadiers de la Garde impériale  
+D) Le Corps expéditionnaire français  
+
+*Explication : La Garde impériale, composée en grande partie d'élite des Gardes françaises.*
+
+**Réponse : A) La Garde impériale**

@@ -1,0 +1,60 @@
+Modèle : phi4-mini:latest
+Temps : 9.04 secondes
+Consigne : Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.
+================================================================================
+
+### Question 1:
+Napoléon Bonaparte était très intéressé par l'innovation technologique. Si on lui avait proposé un modèle d'apprentissage automatique, quel type de problème spécifique pourrait-il avoir résolu en utilisant ce modèle?
+- A) Chiffrer des communications militaires
+- B) Classifier les batailles basées sur leur résultat (victoire ou défaite)
+- C) Tracer le mouvement exact des armées ennemies
+- D) Développer une nouvelle stratégie militaire
+
+**Réponse : B**
+
+Explication: Napoléon pourrait avoir utilisé un modèle d'apprentissage automatique pour classifier les batailles basée sur leurs résultats, ce qui lui permettrait de mieux comprendre quelles stratégies étaient efficaces.
+
+### Question 2:
+Dans le contexte du machine learning, quel est l'objectif principal lorsque vous appliquez une régression logistique à des données historiques?
+
+- A) Déterminer la probabilité d'événements binaires
+- B) Calculer les distances entre différentes observations géographiques
+- C) Tracer un chemin optimal pour les opérations militaires
+- D) Évaluer le sentiment exprimé dans des documents textuels
+
+**Réponse : A**
+
+Explication: La régression logistique est utilisée principalement pour déterminer la probabilité d'occurrences binaires en fonction de plusieurs variables indépendantes.
+
+### Question 3:
+Un ingénieur du machine learning essaie de préparer un dataset contenant des informations sur les tactiques militaires. Quel aspect spécifique devrait-il prioriser lors de l'élimination des valeurs aberrantes?
+- A) Les erreurs dans le code qui génèrent des anomalies
+- B) Des données incorrectes dues à une mauvaise saisie humaine
+- C) Le sentiment ambiant capturé par des capteurs d'IA sur les champs de bataille
+- D) L'interprétation correcte des résultats binaires
+
+**Réponse : B**
+
+Explication: Lors du nettoyage des données, il est crucial d'éliminer les valeurs aberrantes qui proviennent souvent de mauvaises saisies humaines.
+
+### Question 4:
+Lorsqu'on utilise un modèle d'apprentissage supervisé dans le contexte historique pour prédire la réussite ou l'échec d'une bataille basée sur plusieurs facteurs (comme la météo et la formation des troupes), quel est le principal avantage?
+- A) Pour identifier les erreurs critiques du code
+- B) Pour améliorer la compréhension de stratégies militaires passées grâce aux données historiques disponibles
+- C) Pour prédire avec précision les mouvements exacts en temps réel des armées ennemies
+- D) Pour déterminer l'optimisation d'un réseau routier pour le transport rapide
+
+**Réponse : B**
+
+Explication: Utiliser un modèle supervisé permettrait de mieux comprendre et améliorer notre compréhension historique des stratégies passées grâce aux données disponibles.
+
+### Question 5:
+En utilisant une classification multi-classe, quel type de problème pourrait-on résoudre dans la préparation d'un dataset pour analyser les campagnes militaires?
+- A) Déterminer si chaque bataille se termine par une victoire ou une défaite
+- B) Calculer le déplacement exact des troupes entre différentes villes à travers un réseau routier
+- C) Évaluer l'efficacité du matériel militaire utilisé pendant toute la campagne
+- D) Tracer les interactions sociales et politiques qui affectent directement la guerre
+
+**Réponse : A**
+
+Explication: La classification multi-classe est parfaite pour déterminer si chaque bataille se termine par une victoire ou une défaite, catégorisant ainsi efficacement le résultat.

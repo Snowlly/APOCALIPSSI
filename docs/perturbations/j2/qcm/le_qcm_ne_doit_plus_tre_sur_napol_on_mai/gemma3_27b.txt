@@ -1,0 +1,98 @@
+Modèle : gemma3:27b
+Temps : 229.95 secondes
+Consigne : Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.
+================================================================================
+
+## QCM - Compréhension du Machine Learning (Basé sur le cours fourni)
+
+Voici un QCM de 10 questions basé sur le contenu du cours, axé sur la compréhension des concepts clés du Machine Learning :
+
+**1. Dans le contexte du Data Science, où se situe précisément le Machine Learning ?**
+
+a) Il est synonyme d'Intelligence Artificielle.
+b) C'est une étape de l'IA qui se concentre sur l'apprentissage par l'exemple.
+c) Il est supérieur au Deep Learning en termes de performance.
+d) Il concerne uniquement la préparation des données.
+
+**Réponse : b)** Le cours précise que le Machine Learning est une composante de l’Intelligence Artificielle et qu'il relève de l'étape de "modélisation" dans la chaîne de la donnée, impliquant l'apprentissage par l'exemple.
+
+**2. Qu'est-ce que CRISP-DM ?**
+
+a) Un algorithme spécifique de Machine Learning.
+b) Une métrique d'évaluation des modèles.
+c) Une méthode en 6 phases pour mener un projet Data Science, partant du besoin métier.
+d) Un outil de visualisation de données.
+
+**Réponse : c)** CRISP-DM est explicitement présenté comme une méthodologie structurée en 6 phases pour aborder les projets Data Science, en mettant l'accent sur la compréhension du problème business initial.
+
+**3. Quelle différence fondamentale existe entre un apprentissage supervisé et non supervisé ?**
+
+a) L’apprentissage supervisé utilise des données étiquetées, tandis que le non supervisé travaille avec des données brutes.
+b) L’apprentissage non supervisé est plus précis que l'apprentissage supervisé.
+c) L’apprentissage supervisé nécessite moins de ressources informatiques.
+d) Ils sont interchangeables et produisent les mêmes résultats.
+
+**Réponse : a)** Le cours distingue clairement ces deux types d'apprentissage, en expliquant que l'apprentissage supervisé utilise des données où la réponse attendue est connue (étiquetée).  Le non-supervisé tente de découvrir des structures dans des données sans étiquette.
+
+**4. Dans un pipeline Machine Learning typique, quelle est l'utilité combinée des méthodes `.fit()` et `.predict()` ?**
+
+a) `.fit()` évalue le modèle, tandis que `.predict()` ajuste les hyperparamètres.
+b) `.fit()` entraîne le modèle sur les données d’apprentissage, et `.predict()` utilise ce modèle entraîné pour faire des prédictions sur de nouvelles données.
+c) Ce sont des fonctions inverses qui servent à vérifier la cohérence du pipeline.
+d) Elles permettent uniquement de visualiser les données.
+
+**Réponse : b)**  Le cours décrit explicitement cette API uniforme, soulignant que `.fit()` est l’étape d'apprentissage et `.predict()` celle de prédiction avec le modèle entraîné.
+
+**5. Quel est le principal danger à éviter lors de la préparation des données pour un modèle Machine Learning ?**
+
+a) Utiliser trop de données pour l'entraînement.
+b) Introduire des biais dans les données ou mal évaluer le modèle.
+c) Simplifier excessivement les données pour faciliter le calcul.
+d) Supprimer toutes les valeurs manquantes.
+
+**Réponse : b)** Le cours insiste sur le fait qu’un modèle apprend les biais présents dans ses données et que la qualité des données et l'évaluation sont cruciales, indiquant ainsi un risque de biais et d'une mauvaise évaluation du modèle.
+
+**6.  Pourquoi est-il important d'ajuster un `StandardScaler` *uniquement* sur les données d’entraînement ?**
+
+a) Cela permet de réduire le temps d'entraînement du modèle.
+b) Pour éviter une fuite de données (data leakage) qui fausserait l'évaluation du modèle.
+c) Cela garantit que les données de test sont toujours plus précises que celles d'entraînement.
+d) Le `StandardScaler` n'a pas besoin d'être ajusté sur le jeu de données d’entrainement.
+
+**Réponse : b)** La phase 7 met en avant la notion de "data leakage" et explique que l'ajustement du scaler sur l'ensemble des données expose le modèle à des informations qu'il n'aurait pas en production, gonflant artificiellement son accuracy.
+
+**7. Quel algorithme est susceptible de bénéficier le plus d’une mise à l’échelle (scaling) des données ?**
+
+a) L'arbre de décision.
+b) La régression logistique.
+c) Un algorithme basé sur les distances, comme KNN.
+d) Tous les algorithmes bénéficient autant du scaling.
+
+**Réponse : c)** Le cours indique que les algorithmes basés sur la distance (comme KNN) sont sensibles aux échelles, tandis que ceux qui utilisent des seuils (comme l’arbre de décision) y sont moins sensibles.
+
+**8. Que représente une matrice de confusion ?**
+
+a) Un graphique montrant l'évolution de l'accuracy au cours du temps.
+b) Un tableau croisant les classes réelles et les classes prédites, permettant d’identifier les erreurs spécifiques commises par un modèle.
+c) Une liste des hyperparamètres optimaux pour un modèle.
+d) Un histogramme de la distribution des données.
+
+**Réponse : b)** La matrice de confusion est définie comme un tableau qui permet d'analyser en détail les types d'erreurs faites par le modèle, notamment les confusions entre différentes classes.
+
+**9.  Si votre champion (le meilleur algorithme) a tendance à confondre plus une classe qu’une autre, que faut-il considérer dans le contexte du cancer du sein?**
+
+a) Il est normal qu'un modèle fasse des erreurs, l'important est d'optimiser l'accuracy globale.
+b) Rater une tumeur maligne (faux négatif) est plus grave qu'alerter à tort sur une bénigne (faux positif), car le non-diagnostic peut avoir de lourdes conséquences.
+c) Il faut ajuster les seuils pour minimiser le nombre d’erreurs, quel que soit leur type.
+d) Le choix entre faux positifs et faux négatifs est sans importance si l'accuracy globale est élevée.
+
+**Réponse : b)** Le cours encourage à relier l'analyse des erreurs (matrice de confusion) aux implications concrètes du problème métier. Dans le cas du cancer du sein, rater un diagnostic est plus grave qu’une alerte inutile, ce qui influence la manière d’interpréter et d’optimiser le modèle.
+
+**10. Qu'est-ce que le "buff scaling" et pourquoi faut-il s'en méfier ?**
+
+a) Une technique pour améliorer l'accuracy en augmentant la taille des données.
+b) L'application du StandardScaler sur les données complètes avant de séparer train/test, ce qui introduit une fuite d'informations (data leakage).
+c) Une méthode pour visualiser l’impact du scaling sur différentes features.
+d) Une technique avancée de régularisation.
+
+**Réponse : b)**  Le cours décrit le "buff scaling" comme une erreur fréquente consistant à ajuster le `StandardScaler` sur toutes les données avant la séparation train/test, ce qui entraîne une fuite d'informations et donne une fausse impression de performance du modèle.

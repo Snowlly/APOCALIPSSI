@@ -1,0 +1,5 @@
+Modèle : qwen3.5:4b
+Temps : 22.33 secondes
+Consigne : Le QCM doit être facile et destiné à des lycéens.
+================================================================================
+

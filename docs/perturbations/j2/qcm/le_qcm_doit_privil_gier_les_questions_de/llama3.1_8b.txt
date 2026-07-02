@@ -1,0 +1,116 @@
+Modèle : llama3.1:8b
+Temps : 19.97 secondes
+Consigne : Le QCM doit privilégier les questions de compréhension.
+================================================================================
+
+Voici un QCM de 10 questions sur Napoléon, inspiré du cours :
+
+**Q1 : Quelle était la profession de Napoléon avant sa carrière militaire ?**
+
+A) Avocat
+B) Professeur d'histoire
+C) Soldat
+D) Diplomate
+
+La bonne réponse est A) Avocat.
+
+Exemple : Napoléon avait étudié le droit et était avocat à Paris avant de rejoindre l'armée. Il a pu utiliser ses connaissances juridiques pour gérer les affaires militaires et diplomatiques plus tard dans sa carrière.
+
+**Q2 : Quel fut le titre du dernier empire créé par Napoléon ?**
+
+A) Empire français
+B) Empire d'Europe
+C) Empire de France-Naples
+D) Empire d'Italie
+
+La bonne réponse est A) Empire français.
+
+Exemple : L'Empire français était l'un des plus grands empires de l'époque, englobant une grande partie de l'Europe. Il a été créé en 1804 et a duré jusqu'à la chute de Napoléon en 1815.
+
+**Q3 : Quelle était la date du débarquement des troupes britanniques à Sainte-Hélène ?**
+
+A) 1er janvier 1815
+B) 17 juin 1815
+C) 25 octobre 1812
+D) 7 septembre 1814
+
+La bonne réponse est C) 25 octobre 1812.
+
+Exemple : Napoléon a été exilé à Sainte-Hélène, une île située dans l'océan Atlantique. Il y a été déposé en 1812 et a passé les deux dernières années de sa vie sur cette île.
+
+**Q4 : Quel était le nom du traité qui a mis fin aux hostilités entre la France et la Grande-Bretagne ?**
+
+A) Traité de Fontainebleau
+B) Traité de Vienne
+C) Traité d'Amiens
+D) Traité de Paris
+
+La bonne réponse est A) Traité de Fontainebleau.
+
+Exemple : Le traité de Fontainebleau a mis fin à la guerre en 1807. Il a été signé par Napoléon et le roi George III, mais il n'a pas duré longtemps car les hostilités ont repris peu après.
+
+**Q5 : Quel était le nom du frère de Napoléon qui est mort jeune ?**
+
+A) Louis
+B) Joseph
+C) Léon
+D) Lucien
+
+La bonne réponse est C) Léon.
+
+Exemple : Léon, frère de Napoléon, a été tué dans un duel en 1800. Il était le seul frère de Napoléon à ne pas avoir joué un rôle important dans la vie politique ou militaire.
+
+**Q6 : Quelle était la position de Napoléon au moment de sa mort ?**
+
+A) Empereur
+B) Roi
+C) Maréchal
+D) Général
+
+La bonne réponse est A) Empereur.
+
+Exemple : Napoléon était encore l'empereur de France à son décès en 1821. Il avait été déposé en 1815 et exilé à Sainte-Hélène, mais il avait toujours conservé son titre d'empereur.
+
+**Q7 : Quel fut le nom du journal qui a publié les articles contre Napoléon ?**
+
+A) Le Moniteur universel
+B) La Gazette de France
+C) Le Journal des débats
+D) L'Echo de la paix
+
+La bonne réponse est C) Le Journal des débats.
+
+Exemple : Le Journal des débats a publié plusieurs articles critiques envers Napoléon. Il était considéré comme un journal d'opposition, mais il n'a jamais été interdit par l'autorité impériale.
+
+**Q8 : Quel fut le nom du général qui a conduit les troupes française contre les Russes ?**
+
+A) Michel Ney
+B) Joachim Murat
+C) Louis-Nicolas Davout
+D) Nicolas Saultier
+
+La bonne réponse est C) Louis-Nicolas Davout.
+
+Exemple : Louis-Nicolas Davout était un général français qui a combattu les Russes à la bataille de Borodino en 1812. Il a joué un rôle important dans la campagne de Russie, mais il n'a pas pu empêcher la défaite française.
+
+**Q9 : Quel fut le nom du traité qui a mis fin à la guerre entre la France et l'Autriche ?**
+
+A) Traité de Campo-Formio
+B) Traité d'Austerlitz
+C) Traité de Presbourg
+D) Traité de Vienne
+
+La bonne réponse est A) Traité de Campo-Formio.
+
+Exemple : Le traité de Campo-Formio a mis fin à la guerre entre la France et l'Autriche en 1797. Il a été signé par Napoléon et le tsar Paul Ier, mais il n'a pas duré longtemps car les hostilités ont repris peu après.
+
+**Q10 : Quelle était la date de la mort de Napoléon ?**
+
+A) 5 mai 1821
+B) 25 octobre 1812
+C) 17 juin 1815
+D) 7 septembre 1814
+
+La bonne réponse est A) 5 mai 1821.
+
+Exemple : Napoléon a été exilé à Sainte-Hélène, où il est mort en 1821. Il avait 51 ans lors de son décès.
