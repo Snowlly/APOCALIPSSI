@@ -1,0 +1,5 @@
+Modèle : qwen3.5:4b
+Temps : 21.62 secondes
+Consigne : Le QCM doit être de niveau universitaire.
+================================================================================
+

@@ -1,0 +1,116 @@
+Modèle : gpt-oss-safeguard:latest
+Temps : 28.99 secondes
+Consigne : Le QCM doit être facile et destiné à des lycéens.
+================================================================================
+
+**QCM sur Napoléon Bonaparte (niveau lycée)**  
+
+---
+
+**1. Qui était Napoléon Bonaparte ?**  
+a) Un général espagnol qui a combattu les Ottomans  
+b) Un homme politique britannique célèbre pour la guerre d’indépendance  
+c) Un chef militaire et empereur français du XIXᵉ siècle  
+d) Un peintre italien de la Renaissance  
+
+*Réponse correcte : **c**.  
+Napoléon Bonaparte fut un général et l’un des plus grands leaders politiques français, ayant instauré le Premier Empire à partir de 1804.*  
+
+---
+
+**2. En quelle année Napoléon est-il né ?**  
+a) 1766  
+b) 1769  
+c) 1775  
+d) 1780  
+
+*Réponse correcte : **b**.  
+Napoleon est né le 15 août 1769, à Ajaccio en Corse.*  
+
+---
+
+**3. Où a-t-il remporté sa première grande victoire militaire qui l’a rendu célèbre ?**  
+a) La bataille de Waterloo  
+b) Le siège d’Austerlitz  
+c) La campagne d’Italie (1796‑1797)  
+d) La conquête d’Égypte  
+
+*Réponse correcte : **c**.  
+La campagne d'Italie de 1796‑97 a permis à Napoléon de se faire connaître pour ses manœuvres tactiques et sa rapidité.*  
+
+---
+
+**4. Quel titre lui a été attribué en 1804 après le coup d'État du 18 Brumaire ?**  
+a) Roi des Français  
+b) Consul unique  
+c) Prince de France  
+d) Empereur des Français  
+
+*Réponse correcte : **d**.  
+Napoléon s’est déclaré "Empereur des Français" en décembre 1804, suivant la création du Premier Empire.*  
+
+---
+
+**5. Où Napoléon a-t-il passé ses dernières années après sa défaite à Waterloo ?**  
+a) La Forêt marginale en France  
+b) L’île de St‑Helène dans l’océan Atlantique  
+c) Le Royaume-Uni, à Londres  
+d) L’Allemagne, à Berlin  
+
+*Réponse correcte : **b**.  
+Après sa défaite et son abdication finale, il a été exilé sur l'île de Saint‑Helène où il est décédé en 1821.*  
+
+---
+
+**6. Quel document législatif majeur Napoléon a-t-il instauré pendant son règne ?**  
+a) La Déclaration des Droits de l’Homme et du Citoyen  
+b) Le Code civil français (Code Napoléon)  
+c) L’Ancienne Régime constitutionnel  
+d) Le Concile de Trente  
+
+*Réponse correcte : **b**.  
+Le Code civil de 1804, aussi appelé Code Napoléon, a unifié et simplifié le droit privé dans l’Europe moderne.*  
+
+---
+
+**7. À quelle bataille les Alliés français ont-ils été victorieux en 1805, consolidant la domination napoléonienne sur l’Italie et la Belgique ?**  
+a) Austerlitz  
+b) Marengo  
+c) Jena‑Auerstedt  
+d) La marée d’Amiens  
+
+*Réponse correcte : **a**.  
+La bataille d'Austerlitz, également appelée le "Triomphe de Trois Empires", a marqué un point culminant dans la carrière militaire de Napoléon.*  
+
+---
+
+**8. Quelle est la valeur de la devise associée à l’armée napoléonienne ?**  
+a) “Courage avant tout”  
+b) « Veni, vidi, vici »  
+c) “L’unité crée le progrès”  
+d) ***Simplicium et audacia***  
+
+*Réponse correcte : **b**.  
+« Veni, vidi, vici » (Je suis venu, j'ai vu, je suis arrivé) est l’une des citons les plus célèbres du général.*  
+
+---
+
+**9. Quel était l'objectif de la Grande Armée à la campagne d'Égypte, commencée en 1798 ?**  
+a) Établir un nouveau royaume français à Soudan  
+b) Bloquer le trajet maritime vers l’Inde et vaincre les Britanniques  
+c) Créer une alliance avec les Arabes  
+d) Améliorer la production de thé  
+
+*Réponse correcte : **b**.  
+Napoléon voulait interdire aux Britanniques l’accès à l'Asie en contrôlant le Canal Égée et les routes en Méditerranée.*  
+
+---
+
+**10. En quelle année est survenue l’événement historique d’où provient la date « La bataille de Waterloo »?**  
+a) 1794  
+b) 1805  
+c) 1811  
+d) 1815  
+
+*Réponse correcte : **d**.  
+Le 18 juin 1815, Napoléon a été battu à Waterloo par les forces alliées commandées par le duc de Wellington.*  

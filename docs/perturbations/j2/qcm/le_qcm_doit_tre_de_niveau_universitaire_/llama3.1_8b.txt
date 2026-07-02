@@ -1,0 +1,116 @@
+Modèle : llama3.1:8b
+Temps : 20.08 secondes
+Consigne : Le QCM doit être de niveau universitaire.
+================================================================================
+
+Voici un QCM de 10 questions sur Napoléon, en français, à niveau universitaire :
+
+**Question 1 : Quel était le rôle de Talleyrand dans l'empire de Napoléon ?**
+
+A) Général en chef de l'armée française
+B) Ministre des Affaires étrangères et conseiller politique de Napoléon
+C) Chef du gouvernement provisoire après la chute de Napoléon
+D) Maréchal de France
+
+**Bon réponse : B)**
+
+Talleyrand a été un conseiller politique et diplomate clé pour Napoléon, notamment lors des négociations du traité de Campo Formio.
+
+**Question 2 : Quelle était la principale raison de l'invasion française en Russie en 1812 ?**
+
+A) Pour soutenir les révoltes russes contre le tsar Alexandre Ier
+B) Pour conquérir la Russie et étendre l'empire français
+C) Pour détruire les armées russes et protéger les frontières de l'Empire français
+D) Pour imposer des réformes constitutionnelles en Russie
+
+**Bon réponse : C)**
+
+L'invasion française en Russie a été motivée principalement par la volonté de Napoléon d'écraser les armées russes et de protéger les frontières de l'Empire français.
+
+**Question 3 : Quel était le résultat politique direct de la défaite française à Leipzig en 1813 ?**
+
+A) La chute de Napoléon et son exil à Elba
+B) La restauration de Louis XVIII sur le trône de France
+C) L'entrée en guerre de l'Autriche contre les Français
+D) La révolution des Trois Glorieuses qui a renversé Napoléon
+
+**Bon réponse : A)**
+
+La défaite française à Leipzig en 1813 a marqué la fin du règne de Napoléon et son exil à Elba.
+
+**Question 4 : Quel est le nom du général français qui a dirigé l'armée française lors de la bataille d'Austerlitz ?**
+
+A) Louis-Nicolas Davout
+B) Michel Ney
+C) Joachim Murat
+D) André Masséna
+
+**Bon réponse : A)**
+
+Louis-Nicolas Davout a été le général français qui a dirigé l'armée française lors de la bataille d'Austerlitz.
+
+**Question 5 : Quel était le but du décret impérial du 8e mars 1804 ?**
+
+A) Fixer les règles de succession à la couronne impériale
+B) Créer un nouveau code pénal pour l'Empire français
+C) Organiser la réforme administrative en France
+D) Proclamer la guerre contre l'Autriche et la Russie
+
+**Bon réponse : A)**
+
+Le décret impérial du 8e mars 1804 a fixé les règles de succession à la couronne impériale.
+
+**Question 6 : Quel était le nom de la constitution française adoptée en 1815, après la chute de Napoléon ?**
+
+A) La Constitution de l'An IX
+B) La Charte de Saint-Cloud
+C) La Constitution du Roi de Juillet
+D) La Constitution de la Deuxième République
+
+**Bon réponse : B)**
+
+La Charte de Saint-Cloud a été adoptée en 1815, après la chute de Napoléon.
+
+**Question 7 : Quel était le résultat économique de l'invasion française en Russie en 1812 ?**
+
+A) La perte de millions d'euros pour les armées françaises
+B) L'augmentation des exportations de biens français vers la Russie
+C) La destruction massive de richesses russes et françaises
+D) L'amélioration du commerce international entre la France et la Russie
+
+**Bon réponse : C)**
+
+L'invasion française en Russie a entraîné la destruction massive de richesses russes et françaises.
+
+**Question 8 : Quel était le nom du ministre français des Finances qui a été responsable de la réforme monétaire de Napoléon ?**
+
+A) Jean-Baptiste Say
+B) Charles-Maurice de Talleyrand-Périgord
+C) François Barbé-Marbois
+D) Dominique-Vivant Denon
+
+**Bon réponse : C)**
+
+François Barbé-Marbois a été le ministre français des Finances qui a été responsable de la réforme monétaire de Napoléon.
+
+**Question 9 : Quel était le résultat politique direct de l'abdication de Napoléon en 1814 ?**
+
+A) La chute de Louis XVIII et sa restauration sur le trône
+B) L'exil de Napoléon à Sainte-Hélène
+C) Le retour de Napoléon à Paris pour une nouvelle campagne militaire
+D) La restauration de la monarchie constitutionnelle en France
+
+**Bon réponse : B)**
+
+L'abdication de Napoléon en 1814 a entraîné son exil à Sainte-Hélène.
+
+**Question 10 : Quel était le nom du général français qui a été chargé d'exécuter la sentence de mort contre Napoléon en 1821 ?**
+
+A) Pierre-Marie Barthélemy
+B) Jacques-François Boudet
+C) Jean-Baptiste Drouot
+D) François-Pierre Gaspard
+
+**Bon réponse : C)**
+
+Jean-Baptiste Drouot a été le général français qui a été chargé d'exécuter la sentence de mort contre Napoléon en 1821.

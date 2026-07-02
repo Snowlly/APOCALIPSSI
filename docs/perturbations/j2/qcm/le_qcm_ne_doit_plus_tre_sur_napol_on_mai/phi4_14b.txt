@@ -1,0 +1,126 @@
+Modèle : phi4:14b
+Temps : 39.29 secondes
+Consigne : Le QCM ne doit plus être sur napoléon mais sur le machine learning et privilégier les questions de compréhension.
+================================================================================
+
+Bien sûr ! Voici un QCM sur l'apprentissage automatique avec 10 questions, chacune accompagnée d'une brève explication.
+
+### Question 1:
+Qu'est-ce que la régression logistique ?
+
+a) Un algorithme de classification binaire.  
+b) Un modèle pour prédire des valeurs continues.  
+c) Une technique pour regrouper des données similaires.  
+d) Une méthode d'apprentissage non supervisé.
+
+**Réponse Correcte : a)**
+
+*Explication:* La régression logistique est utilisée principalement pour la classification binaire, où elle prédit la probabilité qu'une entrée appartienne à une certaine classe.
+
+### Question 2:
+Quelle métrique utilise-t-on généralement pour évaluer un modèle de classification ?
+
+a) Le score F1.  
+b) L'erreur quadratique moyenne (MSE).  
+c) La corrélation de Pearson.  
+d) L'écart-type.
+
+**Réponse Correcte : a)**
+
+*Explication:* Le score F1 est une métrique couramment utilisée pour les tâches de classification, car il équilibre la précision et le rappel.
+
+### Question 3:
+Qu'est-ce qu'une matrice de confusion ?
+
+a) Un tableau qui montre comment un modèle prédit à travers différentes classes.  
+b) Une méthode pour normaliser des données.  
+c) Un algorithme de régression.  
+d) Un outil pour l'analyse exploratoire des données.
+
+**Réponse Correcte : a)**
+
+*Explication:* La matrice de confusion est un tableau qui compare les prédictions d'un modèle avec les vraies valeurs, montrant ainsi la performance du modèle en termes de précision et d'autres métriques.
+
+### Question 4:
+Que signifie le terme "overfitting" ?
+
+a) Lorsqu'un modèle ne capture pas bien les tendances des données.  
+b) Lorsqu'un modèle apprend trop les détails et bruit du jeu d'entraînement.  
+c) Lorsqu'un modèle est trop simple pour les données fournies.  
+d) Lorsqu'un modèle prédit avec une précision parfaite.
+
+**Réponse Correcte : b)**
+
+*Explication:* Overfitting se produit lorsque le modèle apprend des détails spécifiques et du bruit dans l'ensemble d'entraînement, ce qui peut nuire à sa capacité de généraliser sur des données non vues.
+
+### Question 5:
+Que fait un "StandardScaler" ?
+
+a) Élimine les valeurs aberrantes.  
+b) Ramène chaque caractéristique à une moyenne de 0 et un écart-type de 1.  
+c) Identifie les doublons dans le dataset.  
+d) Transforme des données catégorielles en numériques.
+
+**Réponse Correcte : b)**
+
+*Explication:* Le StandardScaler normalise chaque caractéristique du jeu de données pour avoir une moyenne de 0 et un écart-type de 1, ce qui est crucial pour certains algorithmes de machine learning.
+
+### Question 6:
+Quel est l'impact d'une fuite de données (data leakage) sur les résultats ?
+
+a) Améliore la précision du modèle.  
+b) Rend le modèle plus robuste.  
+c) Fait paraître un modèle meilleur qu'il n'est réellement.  
+d) N'affecte pas le modèle.
+
+**Réponse Correcte : c)**
+
+*Explication:* La fuite de données peut donner une impression faussement positive du performance d'un modèle, car il a accès à des informations qui ne seraient pas disponibles en production.
+
+### Question 7:
+Qu'est-ce qu'un algorithme non supervisé ?
+
+a) Un algorithme qui nécessite un ensemble de données étiquetées.  
+b) Un algorithme qui apprend sans utiliser d'étiquettes pour les données.  
+c) Un algorithme qui prédit des valeurs continues uniquement.  
+d) Un algorithme utilisé exclusivement en apprentissage profond.
+
+**Réponse Correcte : b)**
+
+*Explication:* Les algorithmes non supervisés fonctionnent sans étiquettes, ce qui les rend adaptés pour des tâches comme la réduction de dimension ou le clustering.
+
+### Question 8:
+Quel est un exemple d'erreur liée à l'échelle dans les données ?
+
+a) Un modèle se trompe car il confond deux catégories similaires.  
+b) Une caractéristique dominante peut masquer d'autres caractéristiques importantes.  
+c) Le jeu de données contient des valeurs manquantes.  
+d) Les données sont trop bruitées.
+
+**Réponse Correcte : b)**
+
+*Explication:* Lorsque les échelles ne sont pas normalisées, une caractéristique avec des valeurs plus grandes peut dominer la performance du modèle, masquant ainsi l'importance d'autres caractéristiques.
+
+### Question 9:
+Pourquoi est-il important de séparer un jeu de données en ensemble d'apprentissage et de test ?
+
+a) Pour évaluer comment le modèle généralise aux nouvelles données.  
+b) Pour avoir plus de données à analyser.  
+c) Pour réduire la complexité du modèle.  
+d) Pour augmenter l'efficacité computationnelle.
+
+**Réponse Correcte : a)**
+
+*Explication:* Séparer les données en ensemble d'apprentissage et de test permet d'évaluer comment un modèle appris généralise à des données nouvelles qu'il n'a jamais vues durant le processus d'entraînement.
+
+### Question 10:
+Quelle est la signification du terme "score F1" ?
+
+a) La moyenne arithmétique de la précision et du rappel.  
+b) Le rapport harmonique entre la précision et le rappel.  
+c) L'écart-type des prédictions d'un modèle.  
+d) Une mesure de l'erreur quadratique moyenne.
+
+**Réponse Correcte : b)**
+
+*Explication:* Le score F1 est un moyen d'équilibrer la précision (capacité du modèle à prédire correctement les positives) et le rappel (capacité à retrouver toutes les véritables positifs), en utilisant leur rapport harmonique.
